@@ -1,0 +1,5 @@
+risk_category,transactions,fraud_transactions,transaction_value,fraud_value,fraud_rate_pct
+High,17,4,77988.92,18670.21,23.529411764705884
+Medium,14120,655,40800988.52,1542168.93,4.638810198300283
+Low,260863,3582,442362827.08,5893161.49,1.37313455721969
+Critical,0,0,0.0,0.0,

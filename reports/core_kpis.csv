@@ -1,0 +1,2 @@
+total_transactions,total_transaction_value_inr,average_transaction_value_inr,median_transaction_value_inr,fraud_transactions,fraud_rate_pct,fraud_value_inr
+275000,483241804.52,1757.2429255272727,1154.955,4241,1.542181818181818,7454000.63
