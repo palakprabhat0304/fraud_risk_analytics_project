@@ -1,0 +1,77 @@
+-- FRAUD RISK ANALYTICS — POWER BI MEASURES
+-- Table name: powerbi_transaction_risk
+
+Total Transactions =
+COUNTROWS(powerbi_transaction_risk)
+
+Total Transaction Value =
+SUM(powerbi_transaction_risk[amount])
+
+Fraud Transactions =
+CALCULATE(
+    COUNTROWS(powerbi_transaction_risk),
+    powerbi_transaction_risk[is_fraud] = 1
+)
+
+Fraud Rate =
+DIVIDE([Fraud Transactions], [Total Transactions], 0)
+
+Fraud Loss =
+CALCULATE(
+    SUM(powerbi_transaction_risk[amount]),
+    powerbi_transaction_risk[is_fraud] = 1
+)
+
+Average Transaction Value =
+AVERAGE(powerbi_transaction_risk[amount])
+
+Average Fraud Transaction Value =
+CALCULATE(
+    AVERAGE(powerbi_transaction_risk[amount]),
+    powerbi_transaction_risk[is_fraud] = 1
+)
+
+High Critical Transactions =
+CALCULATE(
+    COUNTROWS(powerbi_transaction_risk),
+    powerbi_transaction_risk[risk_category] IN {"High", "Critical"}
+)
+
+High Critical Fraud Transactions =
+CALCULATE(
+    [Fraud Transactions],
+    powerbi_transaction_risk[risk_category] IN {"High", "Critical"}
+)
+
+High Critical Fraud Rate =
+DIVIDE([High Critical Fraud Transactions], [High Critical Transactions], 0)
+
+High Critical Transaction Value =
+CALCULATE(
+    [Total Transaction Value],
+    powerbi_transaction_risk[risk_category] IN {"High", "Critical"}
+)
+
+Average Risk Score =
+AVERAGE(powerbi_transaction_risk[risk_score])
+
+Night Fraud Rate =
+DIVIDE(
+    CALCULATE([Fraud Transactions], powerbi_transaction_risk[night_transaction] = 1),
+    CALCULATE([Total Transactions], powerbi_transaction_risk[night_transaction] = 1),
+    0
+)
+
+Device Anomaly Fraud Rate =
+DIVIDE(
+    CALCULATE([Fraud Transactions], powerbi_transaction_risk[device_anomaly] = 1),
+    CALCULATE([Total Transactions], powerbi_transaction_risk[device_anomaly] = 1),
+    0
+)
+
+Location Anomaly Fraud Rate =
+DIVIDE(
+    CALCULATE([Fraud Transactions], powerbi_transaction_risk[location_anomaly] = 1),
+    CALCULATE([Total Transactions], powerbi_transaction_risk[location_anomaly] = 1),
+    0
+)
