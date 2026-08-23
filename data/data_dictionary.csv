@@ -1,0 +1,26 @@
+table,column,description
+customers,customer_id,Unique customer identifier
+customers,age,Customer age
+customers,gender,Customer gender
+customers,city,Registered/customer home city
+customers,account_age_days,Days since account creation
+customers,account_type,"Basic, Standard, or Premium"
+customers,preferred_device,Customer's usual device
+customers,preferred_payment_method,Customer's usual payment method
+merchants,merchant_id,Unique merchant identifier
+merchants,merchant_category,Merchant business category
+merchants,merchant_city,Merchant registered city
+merchants,merchant_risk_score,Historical merchant risk indicator
+transactions,transaction_id,Unique transaction identifier
+transactions,customer_id,Customer making the transaction
+transactions,transaction_timestamp,Transaction date and time
+transactions,amount,Transaction amount in INR
+transactions,merchant_id,Merchant receiving the transaction
+transactions,merchant_category,Merchant category at transaction time
+transactions,payment_method,Payment method used
+transactions,device_type,Device used
+transactions,transaction_city,City from which transaction occurred
+transactions,transaction_status,"Successful, Failed, or Reversed"
+fraud_labels,transaction_id,Transaction identifier
+fraud_labels,is_fraud,"1 if fraudulent, otherwise 0"
+fraud_labels,fraud_type,Fraud category or None

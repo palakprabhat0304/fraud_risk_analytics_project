@@ -1,0 +1,2001 @@
+merchant_id,merchant_category,merchant_city,merchant_risk_score
+M20000,Electronics,Pune,0.177
+M20001,Food Delivery,Hyderabad,0.168
+M20002,Travel,Hyderabad,0.271
+M20003,Food Delivery,Delhi,0.149
+M20004,Gaming,Noida,0.372
+M20005,Electronics,Chennai,0.242
+M20006,Jewellery,Hyderabad,0.392
+M20007,Grocery,Gurugram,0.184
+M20008,Electronics,Chennai,0.222
+M20009,Grocery,Delhi,0.044
+M20010,Fashion,Kolkata,0.099
+M20011,Digital Services,Indore,0.246
+M20012,Healthcare,Lucknow,0.176
+M20013,Travel,Hyderabad,0.257
+M20014,Fashion,Jaipur,0.214
+M20015,Grocery,Chennai,0.02
+M20016,Travel,Hyderabad,0.207
+M20017,Electronics,Pune,0.254
+M20018,Grocery,Mumbai,0.177
+M20019,Healthcare,Bengaluru,0.111
+M20020,Utilities,Pune,0.082
+M20021,Digital Services,Mumbai,0.263
+M20022,Travel,Hyderabad,0.234
+M20023,Travel,Lucknow,0.334
+M20024,Food Delivery,Kanpur,0.212
+M20025,Jewellery,Delhi,0.455
+M20026,Electronics,Gurugram,0.33
+M20027,Grocery,Hyderabad,0.082
+M20028,Gaming,Delhi,0.366
+M20029,Travel,Ahmedabad,0.155
+M20030,Food Delivery,Mumbai,0.105
+M20031,Jewellery,Ahmedabad,0.335
+M20032,Jewellery,Kolkata,0.427
+M20033,Fashion,Kolkata,0.16
+M20034,Gaming,Lucknow,0.379
+M20035,Travel,Lucknow,0.274
+M20036,Food Delivery,Hyderabad,0.175
+M20037,Utilities,Chennai,0.05
+M20038,Electronics,Hyderabad,0.204
+M20039,Grocery,Pune,0.192
+M20040,Gaming,Chennai,0.32
+M20041,Fashion,Bengaluru,0.163
+M20042,Electronics,Hyderabad,0.333
+M20043,Grocery,Pune,0.092
+M20044,Digital Services,Jaipur,0.203
+M20045,Healthcare,Mumbai,0.2
+M20046,Utilities,Pune,0.06
+M20047,Food Delivery,Gurugram,0.208
+M20048,Grocery,Hyderabad,0.121
+M20049,Digital Services,Mumbai,0.3
+M20050,Electronics,Lucknow,0.329
+M20051,Gaming,Delhi,0.326
+M20052,Food Delivery,Kolkata,0.152
+M20053,Electronics,Hyderabad,0.374
+M20054,Travel,Gurugram,0.305
+M20055,Food Delivery,Jaipur,0.177
+M20056,Gaming,Jaipur,0.376
+M20057,Utilities,Pune,0.081
+M20058,Grocery,Delhi,0.067
+M20059,Healthcare,Delhi,0.177
+M20060,Gaming,Mumbai,0.32
+M20061,Utilities,Pune,0.063
+M20062,Fashion,Kolkata,0.166
+M20063,Gaming,Delhi,0.279
+M20064,Food Delivery,Lucknow,0.109
+M20065,Fashion,Bengaluru,0.131
+M20066,Grocery,Delhi,0.041
+M20067,Food Delivery,Ahmedabad,0.069
+M20068,Utilities,Pune,0.084
+M20069,Fashion,Delhi,0.211
+M20070,Healthcare,Lucknow,0.101
+M20071,Healthcare,Mumbai,0.056
+M20072,Utilities,Delhi,0.055
+M20073,Grocery,Jaipur,0.12
+M20074,Food Delivery,Chennai,0.176
+M20075,Digital Services,Hyderabad,0.298
+M20076,Electronics,Delhi,0.296
+M20077,Grocery,Mumbai,0.173
+M20078,Food Delivery,Hyderabad,0.101
+M20079,Electronics,Chandigarh,0.232
+M20080,Utilities,Pune,0.072
+M20081,Digital Services,Bengaluru,0.312
+M20082,Travel,Chandigarh,0.276
+M20083,Utilities,Chandigarh,0.134
+M20084,Gaming,Bengaluru,0.341
+M20085,Gaming,Delhi,0.352
+M20086,Grocery,Delhi,0.096
+M20087,Utilities,Pune,0.046
+M20088,Utilities,Bengaluru,0.087
+M20089,Grocery,Jaipur,0.095
+M20090,Jewellery,Bengaluru,0.384
+M20091,Travel,Pune,0.273
+M20092,Utilities,Delhi,0.091
+M20093,Gaming,Chennai,0.406
+M20094,Utilities,Kolkata,0.046
+M20095,Grocery,Chandigarh,0.087
+M20096,Food Delivery,Bengaluru,0.046
+M20097,Fashion,Ahmedabad,0.121
+M20098,Fashion,Pune,0.194
+M20099,Grocery,Ahmedabad,0.142
+M20100,Food Delivery,Pune,0.157
+M20101,Utilities,Mumbai,0.144
+M20102,Electronics,Delhi,0.31
+M20103,Grocery,Ahmedabad,0.108
+M20104,Digital Services,Ahmedabad,0.286
+M20105,Electronics,Pune,0.251
+M20106,Fashion,Delhi,0.092
+M20107,Jewellery,Mumbai,0.388
+M20108,Fashion,Ahmedabad,0.153
+M20109,Fashion,Kolkata,0.171
+M20110,Grocery,Pune,0.07
+M20111,Utilities,Mumbai,0.059
+M20112,Utilities,Pune,0.121
+M20113,Electronics,Jaipur,0.231
+M20114,Food Delivery,Hyderabad,0.122
+M20115,Grocery,Mumbai,0.078
+M20116,Electronics,Bengaluru,0.21
+M20117,Utilities,Delhi,0.068
+M20118,Digital Services,Pune,0.216
+M20119,Utilities,Mumbai,0.067
+M20120,Utilities,Mumbai,0.09
+M20121,Gaming,Lucknow,0.248
+M20122,Grocery,Noida,0.153
+M20123,Food Delivery,Lucknow,0.261
+M20124,Gaming,Pune,0.304
+M20125,Utilities,Bengaluru,0.06
+M20126,Gaming,Mumbai,0.309
+M20127,Fashion,Hyderabad,0.117
+M20128,Food Delivery,Delhi,0.216
+M20129,Utilities,Jaipur,0.072
+M20130,Travel,Lucknow,0.277
+M20131,Fashion,Hyderabad,0.219
+M20132,Grocery,Bengaluru,0.153
+M20133,Food Delivery,Kolkata,0.177
+M20134,Gaming,Pune,0.287
+M20135,Fashion,Pune,0.207
+M20136,Utilities,Noida,0.069
+M20137,Digital Services,Bengaluru,0.33
+M20138,Electronics,Bengaluru,0.246
+M20139,Food Delivery,Mumbai,0.072
+M20140,Fashion,Delhi,0.164
+M20141,Electronics,Hyderabad,0.313
+M20142,Food Delivery,Lucknow,0.043
+M20143,Fashion,Delhi,0.145
+M20144,Food Delivery,Chennai,0.074
+M20145,Gaming,Bengaluru,0.385
+M20146,Fashion,Jaipur,0.138
+M20147,Grocery,Kolkata,0.154
+M20148,Digital Services,Mumbai,0.221
+M20149,Digital Services,Delhi,0.267
+M20150,Electronics,Jaipur,0.221
+M20151,Healthcare,Kolkata,0.098
+M20152,Digital Services,Mumbai,0.204
+M20153,Electronics,Bengaluru,0.352
+M20154,Travel,Bengaluru,0.292
+M20155,Grocery,Hyderabad,0.113
+M20156,Travel,Mumbai,0.289
+M20157,Fashion,Chennai,0.141
+M20158,Grocery,Delhi,0.131
+M20159,Food Delivery,Ahmedabad,0.12
+M20160,Grocery,Chennai,0.127
+M20161,Fashion,Jaipur,0.169
+M20162,Healthcare,Pune,0.101
+M20163,Gaming,Noida,0.262
+M20164,Utilities,Gurugram,0.054
+M20165,Electronics,Pune,0.365
+M20166,Food Delivery,Pune,0.118
+M20167,Electronics,Bengaluru,0.251
+M20168,Travel,Gurugram,0.246
+M20169,Food Delivery,Lucknow,0.055
+M20170,Fashion,Delhi,0.142
+M20171,Food Delivery,Bengaluru,0.132
+M20172,Food Delivery,Ahmedabad,0.146
+M20173,Grocery,Bengaluru,0.119
+M20174,Grocery,Lucknow,0.172
+M20175,Grocery,Noida,0.073
+M20176,Jewellery,Mumbai,0.336
+M20177,Digital Services,Chennai,0.237
+M20178,Grocery,Kanpur,0.078
+M20179,Fashion,Chennai,0.172
+M20180,Fashion,Delhi,0.151
+M20181,Food Delivery,Jaipur,0.13
+M20182,Fashion,Delhi,0.168
+M20183,Digital Services,Chennai,0.293
+M20184,Electronics,Indore,0.283
+M20185,Travel,Kanpur,0.253
+M20186,Electronics,Pune,0.364
+M20187,Fashion,Delhi,0.09
+M20188,Electronics,Hyderabad,0.292
+M20189,Grocery,Delhi,0.098
+M20190,Jewellery,Kolkata,0.406
+M20191,Food Delivery,Ahmedabad,0.149
+M20192,Gaming,Pune,0.306
+M20193,Fashion,Pune,0.138
+M20194,Grocery,Bengaluru,0.136
+M20195,Digital Services,Hyderabad,0.246
+M20196,Fashion,Chandigarh,0.12
+M20197,Utilities,Noida,0.119
+M20198,Jewellery,Ahmedabad,0.432
+M20199,Food Delivery,Kanpur,0.13
+M20200,Fashion,Ahmedabad,0.182
+M20201,Electronics,Kolkata,0.309
+M20202,Grocery,Ahmedabad,0.099
+M20203,Grocery,Delhi,0.117
+M20204,Gaming,Indore,0.289
+M20205,Digital Services,Hyderabad,0.244
+M20206,Utilities,Mumbai,0.126
+M20207,Fashion,Delhi,0.262
+M20208,Grocery,Kolkata,0.109
+M20209,Electronics,Kolkata,0.242
+M20210,Healthcare,Chennai,0.087
+M20211,Electronics,Chennai,0.218
+M20212,Food Delivery,Kolkata,0.153
+M20213,Digital Services,Ahmedabad,0.255
+M20214,Digital Services,Delhi,0.21
+M20215,Electronics,Delhi,0.274
+M20216,Digital Services,Mumbai,0.285
+M20217,Fashion,Pune,0.165
+M20218,Healthcare,Bengaluru,0.072
+M20219,Electronics,Gurugram,0.329
+M20220,Grocery,Bengaluru,0.118
+M20221,Utilities,Pune,0.049
+M20222,Travel,Bengaluru,0.244
+M20223,Digital Services,Bengaluru,0.158
+M20224,Fashion,Bengaluru,0.175
+M20225,Fashion,Pune,0.289
+M20226,Food Delivery,Bengaluru,0.172
+M20227,Utilities,Delhi,0.075
+M20228,Grocery,Delhi,0.114
+M20229,Food Delivery,Chennai,0.147
+M20230,Electronics,Hyderabad,0.31
+M20231,Electronics,Kanpur,0.278
+M20232,Grocery,Mumbai,0.02
+M20233,Grocery,Bengaluru,0.087
+M20234,Fashion,Kolkata,0.136
+M20235,Food Delivery,Kolkata,0.118
+M20236,Fashion,Mumbai,0.129
+M20237,Grocery,Delhi,0.13
+M20238,Travel,Delhi,0.334
+M20239,Healthcare,Indore,0.147
+M20240,Healthcare,Noida,0.1
+M20241,Food Delivery,Chandigarh,0.191
+M20242,Food Delivery,Delhi,0.165
+M20243,Fashion,Kolkata,0.195
+M20244,Travel,Chennai,0.217
+M20245,Utilities,Ahmedabad,0.076
+M20246,Travel,Delhi,0.269
+M20247,Healthcare,Mumbai,0.2
+M20248,Food Delivery,Mumbai,0.187
+M20249,Fashion,Chennai,0.189
+M20250,Digital Services,Indore,0.26
+M20251,Jewellery,Mumbai,0.437
+M20252,Fashion,Pune,0.187
+M20253,Utilities,Delhi,0.152
+M20254,Digital Services,Mumbai,0.203
+M20255,Food Delivery,Pune,0.124
+M20256,Digital Services,Bengaluru,0.287
+M20257,Grocery,Ahmedabad,0.167
+M20258,Digital Services,Bengaluru,0.341
+M20259,Gaming,Mumbai,0.277
+M20260,Grocery,Ahmedabad,0.07
+M20261,Grocery,Kolkata,0.1
+M20262,Utilities,Noida,0.027
+M20263,Electronics,Kolkata,0.358
+M20264,Grocery,Mumbai,0.108
+M20265,Electronics,Lucknow,0.336
+M20266,Grocery,Chennai,0.095
+M20267,Grocery,Mumbai,0.121
+M20268,Food Delivery,Jaipur,0.061
+M20269,Food Delivery,Jaipur,0.075
+M20270,Travel,Chandigarh,0.196
+M20271,Utilities,Chennai,0.02
+M20272,Grocery,Jaipur,0.149
+M20273,Jewellery,Ahmedabad,0.402
+M20274,Digital Services,Chennai,0.3
+M20275,Digital Services,Delhi,0.248
+M20276,Electronics,Hyderabad,0.333
+M20277,Healthcare,Delhi,0.146
+M20278,Utilities,Bengaluru,0.077
+M20279,Travel,Kanpur,0.252
+M20280,Digital Services,Delhi,0.269
+M20281,Electronics,Lucknow,0.333
+M20282,Food Delivery,Mumbai,0.121
+M20283,Electronics,Chennai,0.299
+M20284,Electronics,Ahmedabad,0.216
+M20285,Healthcare,Kanpur,0.063
+M20286,Food Delivery,Mumbai,0.09
+M20287,Gaming,Jaipur,0.366
+M20288,Fashion,Kanpur,0.131
+M20289,Digital Services,Delhi,0.258
+M20290,Travel,Mumbai,0.235
+M20291,Fashion,Delhi,0.163
+M20292,Electronics,Delhi,0.322
+M20293,Electronics,Delhi,0.29
+M20294,Utilities,Pune,0.071
+M20295,Fashion,Delhi,0.181
+M20296,Fashion,Ahmedabad,0.235
+M20297,Fashion,Chennai,0.165
+M20298,Fashion,Hyderabad,0.105
+M20299,Food Delivery,Kanpur,0.061
+M20300,Digital Services,Pune,0.237
+M20301,Digital Services,Bengaluru,0.199
+M20302,Digital Services,Mumbai,0.142
+M20303,Food Delivery,Chennai,0.107
+M20304,Digital Services,Ahmedabad,0.267
+M20305,Fashion,Kolkata,0.222
+M20306,Electronics,Jaipur,0.279
+M20307,Jewellery,Jaipur,0.414
+M20308,Utilities,Chennai,0.103
+M20309,Fashion,Bengaluru,0.164
+M20310,Electronics,Lucknow,0.25
+M20311,Fashion,Hyderabad,0.258
+M20312,Travel,Delhi,0.196
+M20313,Healthcare,Kanpur,0.119
+M20314,Fashion,Delhi,0.125
+M20315,Travel,Delhi,0.245
+M20316,Electronics,Delhi,0.298
+M20317,Utilities,Delhi,0.071
+M20318,Food Delivery,Bengaluru,0.065
+M20319,Grocery,Pune,0.084
+M20320,Electronics,Delhi,0.331
+M20321,Fashion,Kanpur,0.092
+M20322,Food Delivery,Hyderabad,0.193
+M20323,Grocery,Hyderabad,0.104
+M20324,Food Delivery,Kolkata,0.152
+M20325,Electronics,Mumbai,0.233
+M20326,Jewellery,Bengaluru,0.393
+M20327,Healthcare,Kolkata,0.07
+M20328,Food Delivery,Hyderabad,0.133
+M20329,Electronics,Mumbai,0.231
+M20330,Electronics,Chennai,0.252
+M20331,Grocery,Delhi,0.193
+M20332,Fashion,Kanpur,0.189
+M20333,Grocery,Mumbai,0.117
+M20334,Food Delivery,Mumbai,0.136
+M20335,Healthcare,Pune,0.166
+M20336,Grocery,Delhi,0.094
+M20337,Jewellery,Lucknow,0.442
+M20338,Fashion,Delhi,0.054
+M20339,Grocery,Hyderabad,0.095
+M20340,Grocery,Ahmedabad,0.086
+M20341,Grocery,Mumbai,0.076
+M20342,Food Delivery,Chandigarh,0.153
+M20343,Electronics,Jaipur,0.274
+M20344,Travel,Bengaluru,0.233
+M20345,Utilities,Hyderabad,0.045
+M20346,Fashion,Delhi,0.142
+M20347,Electronics,Hyderabad,0.19
+M20348,Healthcare,Bengaluru,0.086
+M20349,Electronics,Bengaluru,0.216
+M20350,Utilities,Jaipur,0.15
+M20351,Gaming,Jaipur,0.373
+M20352,Utilities,Bengaluru,0.121
+M20353,Travel,Mumbai,0.181
+M20354,Digital Services,Mumbai,0.288
+M20355,Grocery,Gurugram,0.07
+M20356,Food Delivery,Mumbai,0.132
+M20357,Gaming,Kolkata,0.332
+M20358,Healthcare,Mumbai,0.038
+M20359,Food Delivery,Jaipur,0.073
+M20360,Gaming,Bengaluru,0.37
+M20361,Digital Services,Bengaluru,0.278
+M20362,Fashion,Mumbai,0.098
+M20363,Food Delivery,Indore,0.171
+M20364,Gaming,Chennai,0.323
+M20365,Electronics,Delhi,0.222
+M20366,Fashion,Mumbai,0.135
+M20367,Gaming,Kolkata,0.279
+M20368,Fashion,Delhi,0.127
+M20369,Jewellery,Chennai,0.378
+M20370,Food Delivery,Delhi,0.143
+M20371,Gaming,Hyderabad,0.377
+M20372,Grocery,Jaipur,0.148
+M20373,Digital Services,Mumbai,0.285
+M20374,Digital Services,Delhi,0.164
+M20375,Gaming,Noida,0.275
+M20376,Electronics,Kolkata,0.329
+M20377,Food Delivery,Kanpur,0.099
+M20378,Grocery,Mumbai,0.094
+M20379,Grocery,Kanpur,0.128
+M20380,Fashion,Jaipur,0.218
+M20381,Electronics,Mumbai,0.301
+M20382,Digital Services,Hyderabad,0.211
+M20383,Utilities,Hyderabad,0.025
+M20384,Gaming,Kanpur,0.292
+M20385,Utilities,Kolkata,0.135
+M20386,Fashion,Ahmedabad,0.199
+M20387,Digital Services,Noida,0.252
+M20388,Food Delivery,Bengaluru,0.056
+M20389,Electronics,Mumbai,0.32
+M20390,Gaming,Hyderabad,0.349
+M20391,Food Delivery,Gurugram,0.086
+M20392,Food Delivery,Kolkata,0.118
+M20393,Electronics,Mumbai,0.303
+M20394,Food Delivery,Chandigarh,0.1
+M20395,Grocery,Chennai,0.053
+M20396,Utilities,Hyderabad,0.088
+M20397,Food Delivery,Chennai,0.131
+M20398,Gaming,Chennai,0.255
+M20399,Food Delivery,Noida,0.117
+M20400,Digital Services,Bengaluru,0.212
+M20401,Grocery,Kolkata,0.121
+M20402,Travel,Mumbai,0.163
+M20403,Gaming,Hyderabad,0.283
+M20404,Food Delivery,Noida,0.02
+M20405,Utilities,Jaipur,0.099
+M20406,Digital Services,Noida,0.183
+M20407,Travel,Mumbai,0.18
+M20408,Utilities,Hyderabad,0.076
+M20409,Travel,Chennai,0.233
+M20410,Utilities,Mumbai,0.109
+M20411,Travel,Chennai,0.273
+M20412,Travel,Hyderabad,0.291
+M20413,Digital Services,Mumbai,0.323
+M20414,Gaming,Mumbai,0.387
+M20415,Gaming,Chennai,0.355
+M20416,Food Delivery,Mumbai,0.13
+M20417,Grocery,Hyderabad,0.128
+M20418,Fashion,Chandigarh,0.069
+M20419,Grocery,Hyderabad,0.093
+M20420,Utilities,Pune,0.02
+M20421,Utilities,Hyderabad,0.047
+M20422,Grocery,Mumbai,0.034
+M20423,Travel,Jaipur,0.257
+M20424,Jewellery,Ahmedabad,0.427
+M20425,Grocery,Hyderabad,0.155
+M20426,Fashion,Delhi,0.116
+M20427,Grocery,Ahmedabad,0.07
+M20428,Travel,Bengaluru,0.289
+M20429,Food Delivery,Chennai,0.097
+M20430,Fashion,Delhi,0.128
+M20431,Healthcare,Hyderabad,0.132
+M20432,Fashion,Noida,0.183
+M20433,Grocery,Bengaluru,0.143
+M20434,Utilities,Hyderabad,0.102
+M20435,Electronics,Chennai,0.262
+M20436,Utilities,Bengaluru,0.142
+M20437,Travel,Indore,0.28
+M20438,Electronics,Mumbai,0.279
+M20439,Grocery,Mumbai,0.14
+M20440,Healthcare,Pune,0.099
+M20441,Electronics,Pune,0.238
+M20442,Digital Services,Bengaluru,0.255
+M20443,Food Delivery,Mumbai,0.207
+M20444,Utilities,Mumbai,0.127
+M20445,Food Delivery,Delhi,0.139
+M20446,Digital Services,Hyderabad,0.21
+M20447,Electronics,Pune,0.227
+M20448,Fashion,Pune,0.149
+M20449,Jewellery,Kolkata,0.373
+M20450,Electronics,Mumbai,0.281
+M20451,Food Delivery,Chennai,0.127
+M20452,Jewellery,Mumbai,0.336
+M20453,Digital Services,Kolkata,0.212
+M20454,Utilities,Bengaluru,0.064
+M20455,Grocery,Pune,0.12
+M20456,Food Delivery,Chennai,0.141
+M20457,Gaming,Lucknow,0.293
+M20458,Fashion,Mumbai,0.105
+M20459,Gaming,Chennai,0.297
+M20460,Digital Services,Bengaluru,0.286
+M20461,Food Delivery,Mumbai,0.099
+M20462,Travel,Chennai,0.245
+M20463,Utilities,Jaipur,0.099
+M20464,Electronics,Pune,0.335
+M20465,Gaming,Mumbai,0.285
+M20466,Travel,Kolkata,0.295
+M20467,Food Delivery,Ahmedabad,0.146
+M20468,Travel,Mumbai,0.315
+M20469,Fashion,Hyderabad,0.223
+M20470,Grocery,Bengaluru,0.105
+M20471,Food Delivery,Ahmedabad,0.086
+M20472,Digital Services,Bengaluru,0.28
+M20473,Fashion,Delhi,0.11
+M20474,Food Delivery,Chennai,0.13
+M20475,Utilities,Ahmedabad,0.047
+M20476,Food Delivery,Hyderabad,0.109
+M20477,Jewellery,Kanpur,0.302
+M20478,Digital Services,Kolkata,0.246
+M20479,Healthcare,Mumbai,0.105
+M20480,Fashion,Indore,0.136
+M20481,Grocery,Ahmedabad,0.096
+M20482,Fashion,Delhi,0.111
+M20483,Food Delivery,Bengaluru,0.155
+M20484,Grocery,Hyderabad,0.101
+M20485,Healthcare,Mumbai,0.201
+M20486,Jewellery,Kanpur,0.413
+M20487,Food Delivery,Mumbai,0.137
+M20488,Food Delivery,Delhi,0.099
+M20489,Fashion,Chennai,0.214
+M20490,Digital Services,Jaipur,0.231
+M20491,Travel,Gurugram,0.318
+M20492,Electronics,Mumbai,0.356
+M20493,Digital Services,Mumbai,0.227
+M20494,Healthcare,Kolkata,0.088
+M20495,Fashion,Bengaluru,0.127
+M20496,Food Delivery,Mumbai,0.06
+M20497,Food Delivery,Mumbai,0.133
+M20498,Healthcare,Indore,0.1
+M20499,Food Delivery,Ahmedabad,0.15
+M20500,Fashion,Bengaluru,0.158
+M20501,Food Delivery,Pune,0.159
+M20502,Digital Services,Kanpur,0.248
+M20503,Grocery,Noida,0.091
+M20504,Food Delivery,Chennai,0.124
+M20505,Grocery,Gurugram,0.134
+M20506,Electronics,Ahmedabad,0.263
+M20507,Gaming,Chennai,0.381
+M20508,Gaming,Hyderabad,0.307
+M20509,Healthcare,Gurugram,0.086
+M20510,Food Delivery,Delhi,0.036
+M20511,Utilities,Chennai,0.065
+M20512,Travel,Mumbai,0.19
+M20513,Electronics,Mumbai,0.305
+M20514,Travel,Mumbai,0.263
+M20515,Grocery,Bengaluru,0.155
+M20516,Food Delivery,Jaipur,0.195
+M20517,Food Delivery,Delhi,0.113
+M20518,Electronics,Lucknow,0.247
+M20519,Travel,Chandigarh,0.261
+M20520,Food Delivery,Chennai,0.103
+M20521,Travel,Jaipur,0.213
+M20522,Electronics,Kolkata,0.279
+M20523,Digital Services,Hyderabad,0.224
+M20524,Utilities,Bengaluru,0.173
+M20525,Electronics,Kolkata,0.268
+M20526,Travel,Delhi,0.239
+M20527,Fashion,Bengaluru,0.196
+M20528,Digital Services,Delhi,0.349
+M20529,Utilities,Pune,0.07
+M20530,Food Delivery,Delhi,0.036
+M20531,Grocery,Jaipur,0.097
+M20532,Electronics,Chennai,0.203
+M20533,Digital Services,Ahmedabad,0.227
+M20534,Travel,Hyderabad,0.307
+M20535,Grocery,Jaipur,0.064
+M20536,Travel,Kanpur,0.193
+M20537,Food Delivery,Hyderabad,0.159
+M20538,Electronics,Bengaluru,0.27
+M20539,Fashion,Ahmedabad,0.214
+M20540,Electronics,Indore,0.267
+M20541,Travel,Delhi,0.269
+M20542,Digital Services,Ahmedabad,0.181
+M20543,Travel,Mumbai,0.198
+M20544,Utilities,Chandigarh,0.072
+M20545,Grocery,Jaipur,0.082
+M20546,Utilities,Gurugram,0.192
+M20547,Travel,Mumbai,0.286
+M20548,Fashion,Mumbai,0.205
+M20549,Food Delivery,Hyderabad,0.112
+M20550,Fashion,Mumbai,0.097
+M20551,Utilities,Mumbai,0.155
+M20552,Utilities,Mumbai,0.02
+M20553,Electronics,Mumbai,0.255
+M20554,Travel,Mumbai,0.266
+M20555,Grocery,Bengaluru,0.217
+M20556,Grocery,Chennai,0.178
+M20557,Electronics,Mumbai,0.308
+M20558,Food Delivery,Kolkata,0.217
+M20559,Utilities,Pune,0.058
+M20560,Digital Services,Bengaluru,0.27
+M20561,Fashion,Bengaluru,0.226
+M20562,Grocery,Chandigarh,0.037
+M20563,Food Delivery,Bengaluru,0.137
+M20564,Electronics,Noida,0.3
+M20565,Food Delivery,Delhi,0.138
+M20566,Travel,Delhi,0.193
+M20567,Electronics,Lucknow,0.3
+M20568,Electronics,Pune,0.293
+M20569,Fashion,Jaipur,0.135
+M20570,Grocery,Pune,0.135
+M20571,Gaming,Indore,0.401
+M20572,Fashion,Mumbai,0.128
+M20573,Gaming,Delhi,0.362
+M20574,Food Delivery,Mumbai,0.182
+M20575,Electronics,Kolkata,0.343
+M20576,Fashion,Bengaluru,0.153
+M20577,Digital Services,Jaipur,0.298
+M20578,Fashion,Mumbai,0.149
+M20579,Grocery,Delhi,0.137
+M20580,Food Delivery,Mumbai,0.087
+M20581,Fashion,Chandigarh,0.092
+M20582,Travel,Ahmedabad,0.264
+M20583,Electronics,Mumbai,0.32
+M20584,Grocery,Kolkata,0.132
+M20585,Food Delivery,Hyderabad,0.083
+M20586,Travel,Noida,0.129
+M20587,Fashion,Mumbai,0.199
+M20588,Digital Services,Mumbai,0.316
+M20589,Electronics,Delhi,0.195
+M20590,Food Delivery,Gurugram,0.106
+M20591,Healthcare,Noida,0.058
+M20592,Travel,Mumbai,0.251
+M20593,Utilities,Chennai,0.14
+M20594,Food Delivery,Kolkata,0.11
+M20595,Fashion,Mumbai,0.137
+M20596,Jewellery,Mumbai,0.418
+M20597,Fashion,Mumbai,0.064
+M20598,Travel,Ahmedabad,0.278
+M20599,Food Delivery,Gurugram,0.168
+M20600,Food Delivery,Mumbai,0.12
+M20601,Food Delivery,Delhi,0.1
+M20602,Gaming,Hyderabad,0.327
+M20603,Gaming,Hyderabad,0.328
+M20604,Food Delivery,Delhi,0.117
+M20605,Travel,Delhi,0.17
+M20606,Grocery,Delhi,0.119
+M20607,Gaming,Delhi,0.323
+M20608,Digital Services,Lucknow,0.251
+M20609,Electronics,Hyderabad,0.254
+M20610,Electronics,Noida,0.297
+M20611,Digital Services,Lucknow,0.31
+M20612,Fashion,Chennai,0.169
+M20613,Gaming,Lucknow,0.266
+M20614,Travel,Delhi,0.24
+M20615,Food Delivery,Kolkata,0.129
+M20616,Fashion,Gurugram,0.158
+M20617,Utilities,Pune,0.046
+M20618,Travel,Chennai,0.238
+M20619,Travel,Kolkata,0.278
+M20620,Food Delivery,Mumbai,0.107
+M20621,Digital Services,Bengaluru,0.312
+M20622,Utilities,Delhi,0.051
+M20623,Grocery,Mumbai,0.054
+M20624,Fashion,Ahmedabad,0.15
+M20625,Grocery,Kolkata,0.02
+M20626,Digital Services,Kanpur,0.25
+M20627,Electronics,Kolkata,0.265
+M20628,Utilities,Jaipur,0.111
+M20629,Food Delivery,Delhi,0.043
+M20630,Utilities,Mumbai,0.114
+M20631,Gaming,Bengaluru,0.347
+M20632,Electronics,Mumbai,0.351
+M20633,Travel,Jaipur,0.232
+M20634,Grocery,Hyderabad,0.115
+M20635,Electronics,Gurugram,0.309
+M20636,Grocery,Mumbai,0.02
+M20637,Healthcare,Gurugram,0.15
+M20638,Electronics,Ahmedabad,0.274
+M20639,Grocery,Jaipur,0.043
+M20640,Electronics,Chennai,0.277
+M20641,Electronics,Bengaluru,0.333
+M20642,Grocery,Ahmedabad,0.085
+M20643,Gaming,Indore,0.345
+M20644,Gaming,Mumbai,0.25
+M20645,Food Delivery,Pune,0.081
+M20646,Healthcare,Delhi,0.132
+M20647,Grocery,Hyderabad,0.148
+M20648,Food Delivery,Pune,0.129
+M20649,Food Delivery,Delhi,0.146
+M20650,Gaming,Mumbai,0.322
+M20651,Fashion,Mumbai,0.161
+M20652,Fashion,Mumbai,0.112
+M20653,Fashion,Mumbai,0.138
+M20654,Fashion,Delhi,0.159
+M20655,Food Delivery,Hyderabad,0.05
+M20656,Electronics,Hyderabad,0.388
+M20657,Healthcare,Mumbai,0.068
+M20658,Digital Services,Mumbai,0.259
+M20659,Fashion,Delhi,0.104
+M20660,Digital Services,Mumbai,0.114
+M20661,Travel,Delhi,0.317
+M20662,Grocery,Mumbai,0.103
+M20663,Jewellery,Mumbai,0.302
+M20664,Fashion,Kolkata,0.114
+M20665,Grocery,Mumbai,0.193
+M20666,Electronics,Hyderabad,0.302
+M20667,Utilities,Jaipur,0.02
+M20668,Electronics,Mumbai,0.257
+M20669,Utilities,Bengaluru,0.072
+M20670,Healthcare,Pune,0.124
+M20671,Digital Services,Delhi,0.25
+M20672,Jewellery,Chennai,0.322
+M20673,Electronics,Kolkata,0.251
+M20674,Food Delivery,Gurugram,0.079
+M20675,Jewellery,Indore,0.434
+M20676,Electronics,Delhi,0.256
+M20677,Digital Services,Kanpur,0.225
+M20678,Utilities,Mumbai,0.068
+M20679,Digital Services,Hyderabad,0.211
+M20680,Fashion,Hyderabad,0.228
+M20681,Electronics,Mumbai,0.331
+M20682,Digital Services,Bengaluru,0.303
+M20683,Electronics,Jaipur,0.224
+M20684,Jewellery,Delhi,0.416
+M20685,Grocery,Pune,0.135
+M20686,Fashion,Indore,0.114
+M20687,Food Delivery,Mumbai,0.067
+M20688,Digital Services,Mumbai,0.205
+M20689,Travel,Bengaluru,0.174
+M20690,Food Delivery,Mumbai,0.167
+M20691,Fashion,Mumbai,0.203
+M20692,Electronics,Hyderabad,0.265
+M20693,Utilities,Kolkata,0.077
+M20694,Utilities,Ahmedabad,0.049
+M20695,Healthcare,Mumbai,0.204
+M20696,Grocery,Pune,0.08
+M20697,Grocery,Ahmedabad,0.076
+M20698,Food Delivery,Pune,0.114
+M20699,Travel,Hyderabad,0.181
+M20700,Food Delivery,Hyderabad,0.132
+M20701,Electronics,Jaipur,0.344
+M20702,Healthcare,Delhi,0.092
+M20703,Travel,Delhi,0.276
+M20704,Gaming,Mumbai,0.252
+M20705,Electronics,Hyderabad,0.237
+M20706,Grocery,Kolkata,0.104
+M20707,Fashion,Chennai,0.077
+M20708,Fashion,Mumbai,0.175
+M20709,Fashion,Chandigarh,0.146
+M20710,Electronics,Bengaluru,0.293
+M20711,Travel,Mumbai,0.23
+M20712,Travel,Pune,0.233
+M20713,Electronics,Mumbai,0.163
+M20714,Fashion,Noida,0.111
+M20715,Food Delivery,Pune,0.143
+M20716,Grocery,Bengaluru,0.036
+M20717,Grocery,Bengaluru,0.056
+M20718,Travel,Mumbai,0.22
+M20719,Grocery,Hyderabad,0.084
+M20720,Utilities,Chennai,0.112
+M20721,Food Delivery,Delhi,0.13
+M20722,Grocery,Kolkata,0.07
+M20723,Fashion,Bengaluru,0.083
+M20724,Grocery,Mumbai,0.238
+M20725,Jewellery,Delhi,0.402
+M20726,Fashion,Mumbai,0.201
+M20727,Fashion,Noida,0.053
+M20728,Utilities,Hyderabad,0.063
+M20729,Electronics,Indore,0.262
+M20730,Electronics,Pune,0.259
+M20731,Utilities,Mumbai,0.115
+M20732,Food Delivery,Delhi,0.108
+M20733,Electronics,Chennai,0.261
+M20734,Grocery,Mumbai,0.099
+M20735,Utilities,Pune,0.081
+M20736,Electronics,Kanpur,0.226
+M20737,Travel,Bengaluru,0.285
+M20738,Electronics,Lucknow,0.254
+M20739,Fashion,Noida,0.155
+M20740,Grocery,Delhi,0.167
+M20741,Grocery,Hyderabad,0.231
+M20742,Food Delivery,Bengaluru,0.141
+M20743,Food Delivery,Bengaluru,0.042
+M20744,Electronics,Mumbai,0.267
+M20745,Electronics,Delhi,0.357
+M20746,Utilities,Jaipur,0.07
+M20747,Travel,Kanpur,0.277
+M20748,Food Delivery,Bengaluru,0.157
+M20749,Electronics,Mumbai,0.248
+M20750,Food Delivery,Ahmedabad,0.205
+M20751,Fashion,Kolkata,0.179
+M20752,Electronics,Bengaluru,0.279
+M20753,Food Delivery,Lucknow,0.113
+M20754,Grocery,Ahmedabad,0.047
+M20755,Grocery,Mumbai,0.064
+M20756,Travel,Chennai,0.194
+M20757,Fashion,Delhi,0.262
+M20758,Utilities,Delhi,0.127
+M20759,Electronics,Bengaluru,0.235
+M20760,Grocery,Delhi,0.183
+M20761,Grocery,Lucknow,0.161
+M20762,Utilities,Hyderabad,0.051
+M20763,Healthcare,Kanpur,0.124
+M20764,Jewellery,Chennai,0.369
+M20765,Jewellery,Pune,0.446
+M20766,Healthcare,Pune,0.122
+M20767,Digital Services,Delhi,0.231
+M20768,Fashion,Mumbai,0.104
+M20769,Gaming,Bengaluru,0.337
+M20770,Grocery,Kolkata,0.122
+M20771,Healthcare,Kanpur,0.159
+M20772,Grocery,Delhi,0.128
+M20773,Gaming,Mumbai,0.382
+M20774,Fashion,Lucknow,0.126
+M20775,Food Delivery,Bengaluru,0.031
+M20776,Utilities,Delhi,0.02
+M20777,Travel,Mumbai,0.227
+M20778,Digital Services,Delhi,0.215
+M20779,Fashion,Mumbai,0.154
+M20780,Food Delivery,Kolkata,0.153
+M20781,Healthcare,Mumbai,0.128
+M20782,Food Delivery,Ahmedabad,0.02
+M20783,Food Delivery,Kolkata,0.236
+M20784,Fashion,Mumbai,0.178
+M20785,Utilities,Chandigarh,0.093
+M20786,Fashion,Indore,0.153
+M20787,Electronics,Gurugram,0.267
+M20788,Grocery,Delhi,0.15
+M20789,Fashion,Kolkata,0.116
+M20790,Electronics,Hyderabad,0.294
+M20791,Digital Services,Bengaluru,0.318
+M20792,Food Delivery,Hyderabad,0.129
+M20793,Digital Services,Kolkata,0.273
+M20794,Gaming,Mumbai,0.277
+M20795,Healthcare,Hyderabad,0.137
+M20796,Grocery,Gurugram,0.117
+M20797,Gaming,Pune,0.335
+M20798,Grocery,Noida,0.132
+M20799,Grocery,Mumbai,0.049
+M20800,Grocery,Pune,0.181
+M20801,Food Delivery,Kolkata,0.25
+M20802,Gaming,Bengaluru,0.313
+M20803,Electronics,Mumbai,0.333
+M20804,Jewellery,Mumbai,0.394
+M20805,Digital Services,Chennai,0.195
+M20806,Utilities,Delhi,0.138
+M20807,Food Delivery,Mumbai,0.107
+M20808,Food Delivery,Lucknow,0.148
+M20809,Fashion,Jaipur,0.246
+M20810,Travel,Ahmedabad,0.264
+M20811,Grocery,Chennai,0.109
+M20812,Digital Services,Chennai,0.207
+M20813,Food Delivery,Chennai,0.077
+M20814,Fashion,Jaipur,0.154
+M20815,Electronics,Kolkata,0.263
+M20816,Fashion,Delhi,0.191
+M20817,Grocery,Bengaluru,0.051
+M20818,Utilities,Kolkata,0.045
+M20819,Utilities,Chennai,0.073
+M20820,Utilities,Gurugram,0.084
+M20821,Gaming,Bengaluru,0.343
+M20822,Jewellery,Ahmedabad,0.391
+M20823,Electronics,Ahmedabad,0.245
+M20824,Food Delivery,Ahmedabad,0.146
+M20825,Food Delivery,Kolkata,0.173
+M20826,Digital Services,Kanpur,0.264
+M20827,Fashion,Jaipur,0.134
+M20828,Electronics,Lucknow,0.194
+M20829,Grocery,Hyderabad,0.175
+M20830,Digital Services,Mumbai,0.242
+M20831,Electronics,Chennai,0.339
+M20832,Grocery,Chennai,0.174
+M20833,Jewellery,Noida,0.436
+M20834,Digital Services,Kolkata,0.293
+M20835,Food Delivery,Jaipur,0.159
+M20836,Electronics,Kolkata,0.27
+M20837,Travel,Kolkata,0.188
+M20838,Grocery,Noida,0.136
+M20839,Grocery,Mumbai,0.031
+M20840,Travel,Kanpur,0.222
+M20841,Healthcare,Jaipur,0.071
+M20842,Grocery,Chandigarh,0.126
+M20843,Food Delivery,Mumbai,0.13
+M20844,Fashion,Lucknow,0.131
+M20845,Grocery,Delhi,0.081
+M20846,Electronics,Mumbai,0.368
+M20847,Grocery,Delhi,0.065
+M20848,Electronics,Delhi,0.272
+M20849,Fashion,Bengaluru,0.186
+M20850,Grocery,Noida,0.103
+M20851,Fashion,Kolkata,0.187
+M20852,Grocery,Pune,0.149
+M20853,Grocery,Kanpur,0.165
+M20854,Utilities,Kanpur,0.082
+M20855,Utilities,Indore,0.098
+M20856,Fashion,Kanpur,0.169
+M20857,Digital Services,Lucknow,0.21
+M20858,Electronics,Mumbai,0.289
+M20859,Utilities,Pune,0.02
+M20860,Travel,Hyderabad,0.257
+M20861,Fashion,Mumbai,0.064
+M20862,Electronics,Mumbai,0.235
+M20863,Electronics,Hyderabad,0.318
+M20864,Gaming,Gurugram,0.361
+M20865,Grocery,Hyderabad,0.099
+M20866,Jewellery,Jaipur,0.38
+M20867,Electronics,Delhi,0.241
+M20868,Travel,Delhi,0.214
+M20869,Fashion,Lucknow,0.191
+M20870,Digital Services,Bengaluru,0.239
+M20871,Grocery,Kolkata,0.02
+M20872,Fashion,Mumbai,0.105
+M20873,Gaming,Mumbai,0.303
+M20874,Electronics,Hyderabad,0.268
+M20875,Food Delivery,Pune,0.107
+M20876,Grocery,Mumbai,0.052
+M20877,Jewellery,Jaipur,0.428
+M20878,Healthcare,Mumbai,0.02
+M20879,Grocery,Kolkata,0.066
+M20880,Utilities,Kolkata,0.115
+M20881,Grocery,Hyderabad,0.124
+M20882,Digital Services,Hyderabad,0.238
+M20883,Grocery,Mumbai,0.142
+M20884,Fashion,Chennai,0.172
+M20885,Healthcare,Bengaluru,0.103
+M20886,Electronics,Delhi,0.307
+M20887,Digital Services,Mumbai,0.268
+M20888,Gaming,Pune,0.4
+M20889,Travel,Lucknow,0.228
+M20890,Grocery,Mumbai,0.089
+M20891,Gaming,Ahmedabad,0.349
+M20892,Food Delivery,Chennai,0.121
+M20893,Fashion,Mumbai,0.244
+M20894,Fashion,Chennai,0.184
+M20895,Food Delivery,Lucknow,0.087
+M20896,Fashion,Indore,0.093
+M20897,Gaming,Hyderabad,0.411
+M20898,Travel,Hyderabad,0.223
+M20899,Digital Services,Bengaluru,0.265
+M20900,Food Delivery,Hyderabad,0.119
+M20901,Grocery,Chennai,0.136
+M20902,Digital Services,Mumbai,0.225
+M20903,Digital Services,Kolkata,0.255
+M20904,Digital Services,Bengaluru,0.225
+M20905,Fashion,Kolkata,0.285
+M20906,Fashion,Pune,0.126
+M20907,Grocery,Kanpur,0.125
+M20908,Jewellery,Bengaluru,0.528
+M20909,Gaming,Gurugram,0.389
+M20910,Electronics,Kolkata,0.279
+M20911,Electronics,Pune,0.288
+M20912,Jewellery,Pune,0.363
+M20913,Fashion,Delhi,0.236
+M20914,Food Delivery,Mumbai,0.11
+M20915,Grocery,Pune,0.097
+M20916,Grocery,Noida,0.06
+M20917,Fashion,Lucknow,0.146
+M20918,Electronics,Mumbai,0.283
+M20919,Electronics,Bengaluru,0.329
+M20920,Fashion,Chennai,0.172
+M20921,Electronics,Chennai,0.329
+M20922,Digital Services,Delhi,0.147
+M20923,Food Delivery,Kolkata,0.183
+M20924,Grocery,Chennai,0.04
+M20925,Electronics,Lucknow,0.315
+M20926,Travel,Delhi,0.1
+M20927,Travel,Noida,0.243
+M20928,Gaming,Lucknow,0.383
+M20929,Utilities,Hyderabad,0.042
+M20930,Food Delivery,Jaipur,0.122
+M20931,Fashion,Kolkata,0.202
+M20932,Electronics,Hyderabad,0.313
+M20933,Grocery,Chennai,0.03
+M20934,Grocery,Chennai,0.145
+M20935,Fashion,Delhi,0.237
+M20936,Grocery,Delhi,0.155
+M20937,Fashion,Jaipur,0.105
+M20938,Grocery,Mumbai,0.051
+M20939,Healthcare,Kolkata,0.103
+M20940,Electronics,Kanpur,0.306
+M20941,Gaming,Hyderabad,0.379
+M20942,Jewellery,Jaipur,0.364
+M20943,Jewellery,Kanpur,0.397
+M20944,Healthcare,Bengaluru,0.063
+M20945,Food Delivery,Delhi,0.075
+M20946,Electronics,Chennai,0.298
+M20947,Fashion,Noida,0.157
+M20948,Fashion,Kolkata,0.18
+M20949,Food Delivery,Delhi,0.094
+M20950,Fashion,Hyderabad,0.19
+M20951,Grocery,Pune,0.049
+M20952,Grocery,Bengaluru,0.08
+M20953,Fashion,Delhi,0.11
+M20954,Healthcare,Jaipur,0.113
+M20955,Gaming,Kolkata,0.422
+M20956,Fashion,Jaipur,0.177
+M20957,Digital Services,Delhi,0.245
+M20958,Gaming,Delhi,0.331
+M20959,Healthcare,Mumbai,0.074
+M20960,Healthcare,Kolkata,0.15
+M20961,Food Delivery,Noida,0.139
+M20962,Digital Services,Lucknow,0.175
+M20963,Travel,Bengaluru,0.289
+M20964,Utilities,Bengaluru,0.041
+M20965,Electronics,Chennai,0.25
+M20966,Digital Services,Mumbai,0.268
+M20967,Utilities,Kolkata,0.053
+M20968,Electronics,Delhi,0.381
+M20969,Food Delivery,Lucknow,0.109
+M20970,Grocery,Chennai,0.128
+M20971,Food Delivery,Delhi,0.05
+M20972,Utilities,Ahmedabad,0.052
+M20973,Fashion,Jaipur,0.154
+M20974,Utilities,Lucknow,0.125
+M20975,Utilities,Mumbai,0.032
+M20976,Digital Services,Hyderabad,0.304
+M20977,Digital Services,Mumbai,0.256
+M20978,Electronics,Indore,0.295
+M20979,Fashion,Hyderabad,0.126
+M20980,Electronics,Jaipur,0.237
+M20981,Fashion,Delhi,0.062
+M20982,Grocery,Delhi,0.113
+M20983,Travel,Chennai,0.268
+M20984,Jewellery,Pune,0.384
+M20985,Utilities,Bengaluru,0.02
+M20986,Food Delivery,Bengaluru,0.095
+M20987,Electronics,Hyderabad,0.297
+M20988,Electronics,Mumbai,0.288
+M20989,Grocery,Delhi,0.13
+M20990,Grocery,Jaipur,0.027
+M20991,Utilities,Lucknow,0.062
+M20992,Digital Services,Ahmedabad,0.245
+M20993,Healthcare,Delhi,0.128
+M20994,Digital Services,Delhi,0.223
+M20995,Grocery,Bengaluru,0.124
+M20996,Fashion,Delhi,0.117
+M20997,Electronics,Mumbai,0.29
+M20998,Grocery,Delhi,0.087
+M20999,Electronics,Chennai,0.264
+M21000,Food Delivery,Pune,0.229
+M21001,Travel,Mumbai,0.225
+M21002,Jewellery,Bengaluru,0.381
+M21003,Grocery,Hyderabad,0.036
+M21004,Gaming,Mumbai,0.385
+M21005,Food Delivery,Gurugram,0.096
+M21006,Utilities,Chandigarh,0.079
+M21007,Travel,Mumbai,0.202
+M21008,Grocery,Bengaluru,0.119
+M21009,Fashion,Mumbai,0.202
+M21010,Electronics,Jaipur,0.339
+M21011,Fashion,Hyderabad,0.155
+M21012,Electronics,Chandigarh,0.253
+M21013,Food Delivery,Chennai,0.09
+M21014,Digital Services,Mumbai,0.251
+M21015,Grocery,Lucknow,0.111
+M21016,Fashion,Jaipur,0.184
+M21017,Electronics,Delhi,0.242
+M21018,Grocery,Delhi,0.106
+M21019,Fashion,Gurugram,0.114
+M21020,Utilities,Chandigarh,0.074
+M21021,Electronics,Ahmedabad,0.343
+M21022,Electronics,Delhi,0.27
+M21023,Digital Services,Delhi,0.21
+M21024,Food Delivery,Kolkata,0.136
+M21025,Electronics,Mumbai,0.32
+M21026,Grocery,Delhi,0.065
+M21027,Digital Services,Mumbai,0.189
+M21028,Digital Services,Chennai,0.213
+M21029,Gaming,Pune,0.32
+M21030,Grocery,Indore,0.168
+M21031,Utilities,Mumbai,0.02
+M21032,Travel,Noida,0.164
+M21033,Grocery,Bengaluru,0.112
+M21034,Grocery,Kanpur,0.068
+M21035,Grocery,Kolkata,0.055
+M21036,Grocery,Bengaluru,0.129
+M21037,Food Delivery,Kanpur,0.124
+M21038,Utilities,Pune,0.125
+M21039,Digital Services,Kolkata,0.283
+M21040,Digital Services,Kanpur,0.196
+M21041,Utilities,Hyderabad,0.02
+M21042,Grocery,Mumbai,0.15
+M21043,Travel,Mumbai,0.234
+M21044,Grocery,Bengaluru,0.236
+M21045,Food Delivery,Lucknow,0.164
+M21046,Grocery,Gurugram,0.162
+M21047,Gaming,Pune,0.298
+M21048,Electronics,Pune,0.276
+M21049,Gaming,Delhi,0.376
+M21050,Utilities,Kanpur,0.076
+M21051,Electronics,Hyderabad,0.283
+M21052,Digital Services,Chennai,0.261
+M21053,Electronics,Indore,0.247
+M21054,Grocery,Jaipur,0.06
+M21055,Food Delivery,Jaipur,0.112
+M21056,Fashion,Hyderabad,0.141
+M21057,Healthcare,Delhi,0.061
+M21058,Food Delivery,Bengaluru,0.114
+M21059,Electronics,Hyderabad,0.221
+M21060,Food Delivery,Jaipur,0.154
+M21061,Healthcare,Jaipur,0.127
+M21062,Electronics,Noida,0.311
+M21063,Grocery,Mumbai,0.062
+M21064,Healthcare,Hyderabad,0.057
+M21065,Healthcare,Lucknow,0.159
+M21066,Healthcare,Hyderabad,0.091
+M21067,Electronics,Delhi,0.306
+M21068,Utilities,Jaipur,0.028
+M21069,Electronics,Mumbai,0.267
+M21070,Food Delivery,Bengaluru,0.174
+M21071,Grocery,Kolkata,0.106
+M21072,Fashion,Delhi,0.149
+M21073,Jewellery,Lucknow,0.425
+M21074,Grocery,Hyderabad,0.114
+M21075,Grocery,Hyderabad,0.194
+M21076,Food Delivery,Gurugram,0.122
+M21077,Utilities,Delhi,0.109
+M21078,Travel,Hyderabad,0.234
+M21079,Utilities,Chennai,0.036
+M21080,Digital Services,Mumbai,0.269
+M21081,Gaming,Bengaluru,0.274
+M21082,Travel,Chennai,0.284
+M21083,Food Delivery,Noida,0.061
+M21084,Fashion,Hyderabad,0.12
+M21085,Grocery,Pune,0.056
+M21086,Grocery,Kolkata,0.128
+M21087,Travel,Delhi,0.19
+M21088,Electronics,Delhi,0.303
+M21089,Grocery,Chennai,0.07
+M21090,Fashion,Pune,0.155
+M21091,Healthcare,Bengaluru,0.076
+M21092,Grocery,Mumbai,0.205
+M21093,Jewellery,Ahmedabad,0.325
+M21094,Grocery,Kolkata,0.122
+M21095,Travel,Noida,0.24
+M21096,Jewellery,Jaipur,0.365
+M21097,Grocery,Ahmedabad,0.118
+M21098,Food Delivery,Chennai,0.077
+M21099,Utilities,Gurugram,0.032
+M21100,Food Delivery,Kolkata,0.068
+M21101,Grocery,Mumbai,0.104
+M21102,Food Delivery,Jaipur,0.093
+M21103,Grocery,Delhi,0.061
+M21104,Fashion,Jaipur,0.175
+M21105,Electronics,Chandigarh,0.329
+M21106,Utilities,Mumbai,0.02
+M21107,Utilities,Mumbai,0.095
+M21108,Electronics,Jaipur,0.304
+M21109,Food Delivery,Jaipur,0.177
+M21110,Utilities,Kolkata,0.067
+M21111,Travel,Hyderabad,0.31
+M21112,Digital Services,Lucknow,0.276
+M21113,Electronics,Kolkata,0.195
+M21114,Grocery,Kanpur,0.114
+M21115,Grocery,Bengaluru,0.099
+M21116,Digital Services,Bengaluru,0.294
+M21117,Food Delivery,Pune,0.173
+M21118,Grocery,Kolkata,0.056
+M21119,Fashion,Mumbai,0.201
+M21120,Fashion,Delhi,0.154
+M21121,Healthcare,Lucknow,0.068
+M21122,Fashion,Pune,0.225
+M21123,Grocery,Delhi,0.079
+M21124,Grocery,Bengaluru,0.101
+M21125,Food Delivery,Lucknow,0.117
+M21126,Grocery,Delhi,0.123
+M21127,Digital Services,Pune,0.309
+M21128,Jewellery,Chennai,0.472
+M21129,Food Delivery,Gurugram,0.161
+M21130,Gaming,Ahmedabad,0.264
+M21131,Electronics,Ahmedabad,0.346
+M21132,Grocery,Ahmedabad,0.127
+M21133,Grocery,Gurugram,0.149
+M21134,Food Delivery,Delhi,0.106
+M21135,Grocery,Mumbai,0.099
+M21136,Gaming,Bengaluru,0.383
+M21137,Gaming,Noida,0.431
+M21138,Digital Services,Kolkata,0.259
+M21139,Utilities,Delhi,0.024
+M21140,Food Delivery,Bengaluru,0.147
+M21141,Fashion,Pune,0.152
+M21142,Digital Services,Delhi,0.202
+M21143,Electronics,Pune,0.274
+M21144,Electronics,Mumbai,0.301
+M21145,Food Delivery,Ahmedabad,0.167
+M21146,Digital Services,Bengaluru,0.228
+M21147,Grocery,Hyderabad,0.08
+M21148,Digital Services,Mumbai,0.245
+M21149,Fashion,Kolkata,0.239
+M21150,Food Delivery,Kolkata,0.18
+M21151,Gaming,Kanpur,0.365
+M21152,Food Delivery,Ahmedabad,0.144
+M21153,Digital Services,Kolkata,0.236
+M21154,Fashion,Hyderabad,0.195
+M21155,Utilities,Mumbai,0.035
+M21156,Food Delivery,Kolkata,0.142
+M21157,Utilities,Mumbai,0.02
+M21158,Healthcare,Kolkata,0.026
+M21159,Fashion,Mumbai,0.073
+M21160,Grocery,Mumbai,0.185
+M21161,Utilities,Pune,0.073
+M21162,Grocery,Noida,0.039
+M21163,Electronics,Ahmedabad,0.39
+M21164,Food Delivery,Kolkata,0.085
+M21165,Electronics,Jaipur,0.304
+M21166,Healthcare,Hyderabad,0.065
+M21167,Electronics,Ahmedabad,0.316
+M21168,Fashion,Chennai,0.159
+M21169,Utilities,Gurugram,0.046
+M21170,Grocery,Ahmedabad,0.04
+M21171,Gaming,Bengaluru,0.308
+M21172,Grocery,Bengaluru,0.055
+M21173,Gaming,Kolkata,0.261
+M21174,Fashion,Hyderabad,0.193
+M21175,Utilities,Delhi,0.13
+M21176,Grocery,Pune,0.069
+M21177,Jewellery,Pune,0.306
+M21178,Fashion,Mumbai,0.176
+M21179,Fashion,Hyderabad,0.167
+M21180,Grocery,Ahmedabad,0.055
+M21181,Grocery,Delhi,0.097
+M21182,Grocery,Lucknow,0.02
+M21183,Grocery,Pune,0.1
+M21184,Food Delivery,Hyderabad,0.113
+M21185,Utilities,Chandigarh,0.14
+M21186,Grocery,Kolkata,0.111
+M21187,Grocery,Noida,0.104
+M21188,Grocery,Chandigarh,0.188
+M21189,Travel,Hyderabad,0.204
+M21190,Electronics,Bengaluru,0.213
+M21191,Grocery,Kanpur,0.141
+M21192,Fashion,Mumbai,0.207
+M21193,Food Delivery,Hyderabad,0.168
+M21194,Grocery,Kolkata,0.09
+M21195,Utilities,Jaipur,0.048
+M21196,Food Delivery,Kolkata,0.064
+M21197,Utilities,Mumbai,0.04
+M21198,Fashion,Kolkata,0.092
+M21199,Fashion,Kolkata,0.14
+M21200,Digital Services,Mumbai,0.325
+M21201,Food Delivery,Bengaluru,0.095
+M21202,Grocery,Hyderabad,0.106
+M21203,Gaming,Pune,0.365
+M21204,Utilities,Kolkata,0.064
+M21205,Digital Services,Chennai,0.233
+M21206,Food Delivery,Chandigarh,0.178
+M21207,Food Delivery,Kolkata,0.128
+M21208,Fashion,Delhi,0.211
+M21209,Food Delivery,Ahmedabad,0.227
+M21210,Grocery,Delhi,0.061
+M21211,Healthcare,Delhi,0.093
+M21212,Gaming,Pune,0.332
+M21213,Gaming,Chennai,0.318
+M21214,Gaming,Gurugram,0.321
+M21215,Electronics,Pune,0.343
+M21216,Grocery,Chennai,0.104
+M21217,Food Delivery,Mumbai,0.232
+M21218,Food Delivery,Kanpur,0.102
+M21219,Healthcare,Bengaluru,0.168
+M21220,Gaming,Hyderabad,0.419
+M21221,Fashion,Chennai,0.156
+M21222,Food Delivery,Indore,0.14
+M21223,Food Delivery,Bengaluru,0.16
+M21224,Gaming,Kolkata,0.315
+M21225,Utilities,Ahmedabad,0.155
+M21226,Food Delivery,Mumbai,0.083
+M21227,Healthcare,Hyderabad,0.077
+M21228,Fashion,Mumbai,0.137
+M21229,Utilities,Delhi,0.09
+M21230,Grocery,Mumbai,0.115
+M21231,Healthcare,Delhi,0.071
+M21232,Fashion,Kolkata,0.155
+M21233,Gaming,Delhi,0.29
+M21234,Gaming,Hyderabad,0.392
+M21235,Fashion,Pune,0.191
+M21236,Electronics,Delhi,0.264
+M21237,Utilities,Bengaluru,0.071
+M21238,Fashion,Pune,0.13
+M21239,Fashion,Kolkata,0.118
+M21240,Food Delivery,Chennai,0.071
+M21241,Gaming,Bengaluru,0.298
+M21242,Grocery,Lucknow,0.143
+M21243,Travel,Lucknow,0.287
+M21244,Healthcare,Bengaluru,0.038
+M21245,Fashion,Ahmedabad,0.191
+M21246,Fashion,Pune,0.105
+M21247,Food Delivery,Mumbai,0.154
+M21248,Electronics,Mumbai,0.284
+M21249,Digital Services,Mumbai,0.227
+M21250,Electronics,Delhi,0.3
+M21251,Gaming,Mumbai,0.401
+M21252,Gaming,Mumbai,0.256
+M21253,Gaming,Hyderabad,0.391
+M21254,Healthcare,Ahmedabad,0.064
+M21255,Food Delivery,Hyderabad,0.184
+M21256,Jewellery,Chennai,0.439
+M21257,Food Delivery,Bengaluru,0.07
+M21258,Digital Services,Kolkata,0.224
+M21259,Grocery,Bengaluru,0.122
+M21260,Healthcare,Bengaluru,0.143
+M21261,Food Delivery,Gurugram,0.141
+M21262,Jewellery,Hyderabad,0.418
+M21263,Fashion,Hyderabad,0.131
+M21264,Gaming,Mumbai,0.342
+M21265,Food Delivery,Noida,0.117
+M21266,Utilities,Bengaluru,0.02
+M21267,Gaming,Kolkata,0.355
+M21268,Jewellery,Kolkata,0.383
+M21269,Fashion,Kanpur,0.222
+M21270,Food Delivery,Kanpur,0.173
+M21271,Healthcare,Delhi,0.108
+M21272,Food Delivery,Mumbai,0.17
+M21273,Fashion,Kanpur,0.188
+M21274,Travel,Bengaluru,0.239
+M21275,Utilities,Lucknow,0.02
+M21276,Digital Services,Hyderabad,0.243
+M21277,Electronics,Bengaluru,0.265
+M21278,Electronics,Delhi,0.275
+M21279,Electronics,Indore,0.27
+M21280,Electronics,Mumbai,0.33
+M21281,Grocery,Chennai,0.155
+M21282,Utilities,Ahmedabad,0.058
+M21283,Fashion,Hyderabad,0.1
+M21284,Fashion,Bengaluru,0.116
+M21285,Healthcare,Delhi,0.156
+M21286,Digital Services,Delhi,0.293
+M21287,Food Delivery,Gurugram,0.069
+M21288,Grocery,Hyderabad,0.034
+M21289,Travel,Mumbai,0.213
+M21290,Digital Services,Hyderabad,0.331
+M21291,Jewellery,Pune,0.419
+M21292,Fashion,Pune,0.149
+M21293,Digital Services,Mumbai,0.244
+M21294,Fashion,Bengaluru,0.075
+M21295,Utilities,Ahmedabad,0.067
+M21296,Digital Services,Chandigarh,0.306
+M21297,Grocery,Chennai,0.082
+M21298,Electronics,Mumbai,0.269
+M21299,Food Delivery,Kanpur,0.135
+M21300,Fashion,Hyderabad,0.109
+M21301,Digital Services,Ahmedabad,0.265
+M21302,Fashion,Delhi,0.123
+M21303,Healthcare,Kanpur,0.078
+M21304,Electronics,Bengaluru,0.263
+M21305,Digital Services,Kolkata,0.233
+M21306,Utilities,Hyderabad,0.085
+M21307,Grocery,Bengaluru,0.097
+M21308,Grocery,Delhi,0.092
+M21309,Grocery,Lucknow,0.105
+M21310,Food Delivery,Hyderabad,0.079
+M21311,Healthcare,Hyderabad,0.02
+M21312,Utilities,Mumbai,0.08
+M21313,Food Delivery,Delhi,0.089
+M21314,Food Delivery,Bengaluru,0.14
+M21315,Digital Services,Mumbai,0.225
+M21316,Travel,Pune,0.155
+M21317,Utilities,Delhi,0.075
+M21318,Grocery,Ahmedabad,0.147
+M21319,Grocery,Kolkata,0.114
+M21320,Grocery,Hyderabad,0.036
+M21321,Digital Services,Delhi,0.222
+M21322,Utilities,Jaipur,0.058
+M21323,Digital Services,Chandigarh,0.242
+M21324,Fashion,Ahmedabad,0.134
+M21325,Grocery,Ahmedabad,0.021
+M21326,Grocery,Delhi,0.094
+M21327,Travel,Hyderabad,0.304
+M21328,Digital Services,Mumbai,0.221
+M21329,Grocery,Mumbai,0.044
+M21330,Digital Services,Hyderabad,0.314
+M21331,Electronics,Delhi,0.366
+M21332,Grocery,Kolkata,0.082
+M21333,Grocery,Gurugram,0.111
+M21334,Grocery,Hyderabad,0.11
+M21335,Gaming,Mumbai,0.38
+M21336,Digital Services,Delhi,0.2
+M21337,Digital Services,Hyderabad,0.249
+M21338,Grocery,Hyderabad,0.051
+M21339,Food Delivery,Chennai,0.136
+M21340,Travel,Noida,0.308
+M21341,Electronics,Noida,0.295
+M21342,Food Delivery,Kolkata,0.082
+M21343,Electronics,Delhi,0.325
+M21344,Electronics,Delhi,0.253
+M21345,Digital Services,Bengaluru,0.271
+M21346,Utilities,Ahmedabad,0.045
+M21347,Utilities,Lucknow,0.02
+M21348,Food Delivery,Kolkata,0.086
+M21349,Fashion,Lucknow,0.038
+M21350,Fashion,Delhi,0.111
+M21351,Grocery,Kolkata,0.196
+M21352,Digital Services,Bengaluru,0.123
+M21353,Gaming,Kolkata,0.269
+M21354,Travel,Mumbai,0.318
+M21355,Food Delivery,Pune,0.077
+M21356,Digital Services,Kanpur,0.232
+M21357,Electronics,Bengaluru,0.279
+M21358,Healthcare,Kanpur,0.026
+M21359,Grocery,Mumbai,0.147
+M21360,Grocery,Kolkata,0.095
+M21361,Digital Services,Hyderabad,0.221
+M21362,Grocery,Mumbai,0.142
+M21363,Gaming,Kolkata,0.28
+M21364,Travel,Delhi,0.242
+M21365,Fashion,Chennai,0.114
+M21366,Digital Services,Delhi,0.193
+M21367,Fashion,Mumbai,0.25
+M21368,Grocery,Mumbai,0.106
+M21369,Electronics,Pune,0.323
+M21370,Digital Services,Delhi,0.227
+M21371,Digital Services,Bengaluru,0.204
+M21372,Electronics,Delhi,0.14
+M21373,Food Delivery,Mumbai,0.106
+M21374,Food Delivery,Mumbai,0.045
+M21375,Digital Services,Chennai,0.254
+M21376,Food Delivery,Jaipur,0.062
+M21377,Healthcare,Mumbai,0.121
+M21378,Grocery,Delhi,0.193
+M21379,Travel,Kanpur,0.367
+M21380,Utilities,Noida,0.094
+M21381,Grocery,Indore,0.099
+M21382,Travel,Pune,0.208
+M21383,Digital Services,Mumbai,0.215
+M21384,Utilities,Mumbai,0.039
+M21385,Grocery,Delhi,0.167
+M21386,Travel,Bengaluru,0.222
+M21387,Travel,Bengaluru,0.337
+M21388,Grocery,Delhi,0.058
+M21389,Fashion,Delhi,0.154
+M21390,Electronics,Gurugram,0.223
+M21391,Digital Services,Mumbai,0.274
+M21392,Travel,Mumbai,0.231
+M21393,Grocery,Mumbai,0.098
+M21394,Travel,Pune,0.226
+M21395,Grocery,Delhi,0.125
+M21396,Healthcare,Chennai,0.13
+M21397,Food Delivery,Hyderabad,0.157
+M21398,Food Delivery,Noida,0.078
+M21399,Utilities,Delhi,0.094
+M21400,Fashion,Bengaluru,0.138
+M21401,Fashion,Kolkata,0.22
+M21402,Grocery,Chennai,0.111
+M21403,Electronics,Pune,0.294
+M21404,Grocery,Hyderabad,0.088
+M21405,Grocery,Lucknow,0.063
+M21406,Gaming,Mumbai,0.343
+M21407,Electronics,Gurugram,0.335
+M21408,Grocery,Delhi,0.065
+M21409,Electronics,Delhi,0.339
+M21410,Fashion,Delhi,0.186
+M21411,Grocery,Ahmedabad,0.02
+M21412,Electronics,Pune,0.239
+M21413,Digital Services,Mumbai,0.353
+M21414,Grocery,Kanpur,0.095
+M21415,Food Delivery,Chandigarh,0.079
+M21416,Utilities,Chennai,0.041
+M21417,Digital Services,Mumbai,0.244
+M21418,Fashion,Chennai,0.201
+M21419,Fashion,Pune,0.145
+M21420,Fashion,Delhi,0.125
+M21421,Food Delivery,Mumbai,0.02
+M21422,Travel,Chennai,0.199
+M21423,Fashion,Kanpur,0.129
+M21424,Digital Services,Delhi,0.264
+M21425,Fashion,Bengaluru,0.178
+M21426,Electronics,Noida,0.345
+M21427,Digital Services,Pune,0.196
+M21428,Food Delivery,Pune,0.126
+M21429,Healthcare,Bengaluru,0.107
+M21430,Fashion,Indore,0.115
+M21431,Electronics,Kolkata,0.321
+M21432,Electronics,Mumbai,0.357
+M21433,Utilities,Mumbai,0.081
+M21434,Digital Services,Pune,0.229
+M21435,Digital Services,Bengaluru,0.317
+M21436,Gaming,Mumbai,0.36
+M21437,Utilities,Ahmedabad,0.025
+M21438,Electronics,Kanpur,0.271
+M21439,Fashion,Hyderabad,0.144
+M21440,Grocery,Bengaluru,0.062
+M21441,Food Delivery,Mumbai,0.084
+M21442,Digital Services,Kolkata,0.22
+M21443,Gaming,Mumbai,0.376
+M21444,Travel,Kolkata,0.227
+M21445,Fashion,Indore,0.164
+M21446,Travel,Hyderabad,0.284
+M21447,Fashion,Ahmedabad,0.147
+M21448,Digital Services,Mumbai,0.196
+M21449,Gaming,Bengaluru,0.382
+M21450,Electronics,Hyderabad,0.263
+M21451,Travel,Kolkata,0.32
+M21452,Grocery,Bengaluru,0.145
+M21453,Grocery,Kolkata,0.124
+M21454,Travel,Ahmedabad,0.25
+M21455,Travel,Delhi,0.291
+M21456,Grocery,Lucknow,0.111
+M21457,Fashion,Kolkata,0.062
+M21458,Electronics,Chandigarh,0.275
+M21459,Electronics,Jaipur,0.306
+M21460,Fashion,Ahmedabad,0.115
+M21461,Food Delivery,Mumbai,0.237
+M21462,Utilities,Hyderabad,0.073
+M21463,Fashion,Bengaluru,0.185
+M21464,Digital Services,Jaipur,0.303
+M21465,Food Delivery,Kolkata,0.147
+M21466,Gaming,Chennai,0.335
+M21467,Travel,Bengaluru,0.258
+M21468,Digital Services,Mumbai,0.241
+M21469,Food Delivery,Bengaluru,0.116
+M21470,Utilities,Pune,0.028
+M21471,Food Delivery,Bengaluru,0.108
+M21472,Healthcare,Mumbai,0.046
+M21473,Utilities,Mumbai,0.08
+M21474,Healthcare,Noida,0.082
+M21475,Grocery,Delhi,0.123
+M21476,Food Delivery,Gurugram,0.053
+M21477,Food Delivery,Mumbai,0.078
+M21478,Fashion,Hyderabad,0.119
+M21479,Electronics,Chennai,0.279
+M21480,Utilities,Hyderabad,0.069
+M21481,Electronics,Mumbai,0.329
+M21482,Food Delivery,Kanpur,0.122
+M21483,Travel,Noida,0.24
+M21484,Food Delivery,Ahmedabad,0.073
+M21485,Digital Services,Mumbai,0.237
+M21486,Jewellery,Delhi,0.34
+M21487,Food Delivery,Bengaluru,0.142
+M21488,Electronics,Gurugram,0.317
+M21489,Electronics,Jaipur,0.212
+M21490,Grocery,Hyderabad,0.102
+M21491,Travel,Chennai,0.235
+M21492,Electronics,Jaipur,0.334
+M21493,Travel,Mumbai,0.195
+M21494,Fashion,Hyderabad,0.126
+M21495,Grocery,Mumbai,0.112
+M21496,Utilities,Noida,0.058
+M21497,Digital Services,Hyderabad,0.23
+M21498,Fashion,Delhi,0.14
+M21499,Fashion,Indore,0.184
+M21500,Grocery,Kanpur,0.151
+M21501,Grocery,Chennai,0.096
+M21502,Food Delivery,Noida,0.108
+M21503,Food Delivery,Delhi,0.15
+M21504,Utilities,Jaipur,0.089
+M21505,Food Delivery,Jaipur,0.127
+M21506,Electronics,Pune,0.331
+M21507,Healthcare,Hyderabad,0.052
+M21508,Jewellery,Bengaluru,0.388
+M21509,Utilities,Kolkata,0.036
+M21510,Digital Services,Bengaluru,0.226
+M21511,Healthcare,Mumbai,0.043
+M21512,Travel,Lucknow,0.223
+M21513,Healthcare,Jaipur,0.117
+M21514,Utilities,Bengaluru,0.02
+M21515,Travel,Mumbai,0.225
+M21516,Fashion,Delhi,0.156
+M21517,Gaming,Pune,0.328
+M21518,Grocery,Kolkata,0.025
+M21519,Gaming,Hyderabad,0.383
+M21520,Fashion,Lucknow,0.202
+M21521,Fashion,Bengaluru,0.211
+M21522,Travel,Gurugram,0.215
+M21523,Digital Services,Kolkata,0.258
+M21524,Digital Services,Ahmedabad,0.217
+M21525,Digital Services,Chennai,0.202
+M21526,Food Delivery,Chandigarh,0.069
+M21527,Utilities,Delhi,0.089
+M21528,Grocery,Hyderabad,0.138
+M21529,Food Delivery,Bengaluru,0.178
+M21530,Fashion,Bengaluru,0.158
+M21531,Grocery,Lucknow,0.069
+M21532,Gaming,Pune,0.336
+M21533,Grocery,Mumbai,0.144
+M21534,Healthcare,Noida,0.173
+M21535,Digital Services,Delhi,0.303
+M21536,Fashion,Ahmedabad,0.209
+M21537,Grocery,Kolkata,0.161
+M21538,Utilities,Lucknow,0.083
+M21539,Utilities,Kolkata,0.093
+M21540,Utilities,Hyderabad,0.128
+M21541,Gaming,Delhi,0.363
+M21542,Utilities,Chennai,0.119
+M21543,Healthcare,Mumbai,0.073
+M21544,Grocery,Chennai,0.163
+M21545,Digital Services,Delhi,0.228
+M21546,Utilities,Kolkata,0.13
+M21547,Food Delivery,Hyderabad,0.116
+M21548,Fashion,Ahmedabad,0.136
+M21549,Digital Services,Pune,0.16
+M21550,Grocery,Chennai,0.09
+M21551,Utilities,Kolkata,0.024
+M21552,Grocery,Delhi,0.058
+M21553,Food Delivery,Noida,0.143
+M21554,Travel,Mumbai,0.172
+M21555,Grocery,Bengaluru,0.155
+M21556,Grocery,Mumbai,0.213
+M21557,Fashion,Pune,0.138
+M21558,Fashion,Hyderabad,0.214
+M21559,Electronics,Mumbai,0.217
+M21560,Travel,Kolkata,0.258
+M21561,Food Delivery,Indore,0.136
+M21562,Gaming,Mumbai,0.478
+M21563,Fashion,Delhi,0.143
+M21564,Food Delivery,Bengaluru,0.141
+M21565,Food Delivery,Kolkata,0.112
+M21566,Gaming,Hyderabad,0.323
+M21567,Digital Services,Ahmedabad,0.244
+M21568,Jewellery,Hyderabad,0.392
+M21569,Healthcare,Mumbai,0.072
+M21570,Gaming,Delhi,0.352
+M21571,Electronics,Bengaluru,0.24
+M21572,Grocery,Kolkata,0.082
+M21573,Gaming,Kolkata,0.426
+M21574,Food Delivery,Kolkata,0.115
+M21575,Food Delivery,Mumbai,0.16
+M21576,Gaming,Bengaluru,0.337
+M21577,Food Delivery,Kolkata,0.155
+M21578,Electronics,Kolkata,0.272
+M21579,Digital Services,Pune,0.134
+M21580,Jewellery,Hyderabad,0.399
+M21581,Grocery,Mumbai,0.055
+M21582,Food Delivery,Pune,0.106
+M21583,Jewellery,Bengaluru,0.431
+M21584,Gaming,Bengaluru,0.422
+M21585,Food Delivery,Pune,0.057
+M21586,Digital Services,Chennai,0.239
+M21587,Utilities,Hyderabad,0.081
+M21588,Gaming,Hyderabad,0.342
+M21589,Travel,Jaipur,0.242
+M21590,Utilities,Chennai,0.105
+M21591,Healthcare,Pune,0.08
+M21592,Grocery,Mumbai,0.091
+M21593,Gaming,Pune,0.358
+M21594,Gaming,Mumbai,0.309
+M21595,Grocery,Jaipur,0.073
+M21596,Healthcare,Mumbai,0.097
+M21597,Healthcare,Ahmedabad,0.073
+M21598,Grocery,Chennai,0.056
+M21599,Utilities,Ahmedabad,0.031
+M21600,Electronics,Delhi,0.278
+M21601,Electronics,Chennai,0.342
+M21602,Grocery,Lucknow,0.118
+M21603,Gaming,Delhi,0.297
+M21604,Jewellery,Mumbai,0.47
+M21605,Food Delivery,Ahmedabad,0.097
+M21606,Electronics,Ahmedabad,0.351
+M21607,Electronics,Delhi,0.277
+M21608,Grocery,Bengaluru,0.112
+M21609,Electronics,Hyderabad,0.264
+M21610,Food Delivery,Mumbai,0.107
+M21611,Digital Services,Hyderabad,0.312
+M21612,Digital Services,Mumbai,0.242
+M21613,Grocery,Chandigarh,0.142
+M21614,Electronics,Chandigarh,0.282
+M21615,Gaming,Pune,0.335
+M21616,Gaming,Chennai,0.368
+M21617,Electronics,Indore,0.275
+M21618,Digital Services,Kolkata,0.215
+M21619,Food Delivery,Mumbai,0.086
+M21620,Food Delivery,Delhi,0.146
+M21621,Healthcare,Kolkata,0.02
+M21622,Fashion,Gurugram,0.177
+M21623,Gaming,Bengaluru,0.275
+M21624,Digital Services,Mumbai,0.258
+M21625,Digital Services,Ahmedabad,0.31
+M21626,Grocery,Delhi,0.06
+M21627,Grocery,Mumbai,0.124
+M21628,Gaming,Kolkata,0.391
+M21629,Grocery,Chennai,0.074
+M21630,Gaming,Hyderabad,0.311
+M21631,Healthcare,Mumbai,0.117
+M21632,Grocery,Mumbai,0.156
+M21633,Grocery,Hyderabad,0.203
+M21634,Travel,Pune,0.207
+M21635,Digital Services,Kanpur,0.279
+M21636,Food Delivery,Pune,0.098
+M21637,Digital Services,Chennai,0.199
+M21638,Gaming,Delhi,0.329
+M21639,Fashion,Delhi,0.15
+M21640,Electronics,Pune,0.284
+M21641,Food Delivery,Bengaluru,0.139
+M21642,Fashion,Delhi,0.17
+M21643,Electronics,Hyderabad,0.335
+M21644,Fashion,Ahmedabad,0.245
+M21645,Food Delivery,Mumbai,0.121
+M21646,Digital Services,Mumbai,0.228
+M21647,Digital Services,Pune,0.241
+M21648,Utilities,Chennai,0.07
+M21649,Electronics,Delhi,0.253
+M21650,Travel,Pune,0.173
+M21651,Grocery,Pune,0.039
+M21652,Food Delivery,Mumbai,0.151
+M21653,Food Delivery,Ahmedabad,0.154
+M21654,Fashion,Mumbai,0.175
+M21655,Electronics,Ahmedabad,0.269
+M21656,Digital Services,Delhi,0.227
+M21657,Grocery,Delhi,0.038
+M21658,Utilities,Kolkata,0.051
+M21659,Gaming,Kolkata,0.307
+M21660,Food Delivery,Bengaluru,0.056
+M21661,Electronics,Indore,0.29
+M21662,Healthcare,Hyderabad,0.067
+M21663,Food Delivery,Hyderabad,0.122
+M21664,Gaming,Delhi,0.273
+M21665,Gaming,Mumbai,0.366
+M21666,Grocery,Lucknow,0.119
+M21667,Travel,Bengaluru,0.217
+M21668,Utilities,Chennai,0.142
+M21669,Fashion,Jaipur,0.156
+M21670,Utilities,Mumbai,0.086
+M21671,Fashion,Pune,0.09
+M21672,Utilities,Bengaluru,0.045
+M21673,Healthcare,Lucknow,0.071
+M21674,Healthcare,Hyderabad,0.135
+M21675,Gaming,Gurugram,0.383
+M21676,Travel,Bengaluru,0.214
+M21677,Healthcare,Mumbai,0.108
+M21678,Fashion,Chennai,0.199
+M21679,Digital Services,Mumbai,0.235
+M21680,Healthcare,Delhi,0.034
+M21681,Electronics,Chennai,0.312
+M21682,Fashion,Bengaluru,0.179
+M21683,Jewellery,Chennai,0.413
+M21684,Electronics,Kolkata,0.323
+M21685,Grocery,Kanpur,0.147
+M21686,Grocery,Bengaluru,0.128
+M21687,Healthcare,Chennai,0.047
+M21688,Fashion,Ahmedabad,0.092
+M21689,Electronics,Pune,0.296
+M21690,Electronics,Bengaluru,0.283
+M21691,Food Delivery,Mumbai,0.126
+M21692,Fashion,Delhi,0.236
+M21693,Grocery,Mumbai,0.141
+M21694,Travel,Pune,0.232
+M21695,Gaming,Chennai,0.307
+M21696,Fashion,Bengaluru,0.189
+M21697,Food Delivery,Gurugram,0.141
+M21698,Gaming,Chennai,0.33
+M21699,Gaming,Chandigarh,0.217
+M21700,Grocery,Bengaluru,0.057
+M21701,Travel,Pune,0.278
+M21702,Jewellery,Bengaluru,0.342
+M21703,Grocery,Gurugram,0.126
+M21704,Healthcare,Delhi,0.12
+M21705,Travel,Delhi,0.195
+M21706,Food Delivery,Kolkata,0.16
+M21707,Fashion,Bengaluru,0.156
+M21708,Utilities,Kanpur,0.073
+M21709,Grocery,Mumbai,0.048
+M21710,Utilities,Mumbai,0.138
+M21711,Grocery,Mumbai,0.046
+M21712,Grocery,Bengaluru,0.046
+M21713,Grocery,Jaipur,0.106
+M21714,Healthcare,Noida,0.056
+M21715,Healthcare,Noida,0.193
+M21716,Fashion,Gurugram,0.116
+M21717,Grocery,Bengaluru,0.136
+M21718,Digital Services,Chennai,0.324
+M21719,Grocery,Bengaluru,0.132
+M21720,Grocery,Ahmedabad,0.066
+M21721,Electronics,Noida,0.295
+M21722,Electronics,Delhi,0.341
+M21723,Digital Services,Chennai,0.183
+M21724,Food Delivery,Hyderabad,0.169
+M21725,Fashion,Noida,0.182
+M21726,Utilities,Kanpur,0.165
+M21727,Utilities,Lucknow,0.099
+M21728,Electronics,Ahmedabad,0.287
+M21729,Grocery,Noida,0.131
+M21730,Grocery,Chandigarh,0.044
+M21731,Fashion,Mumbai,0.123
+M21732,Grocery,Noida,0.103
+M21733,Travel,Chennai,0.216
+M21734,Electronics,Bengaluru,0.252
+M21735,Utilities,Pune,0.172
+M21736,Fashion,Chennai,0.241
+M21737,Gaming,Chennai,0.226
+M21738,Gaming,Bengaluru,0.342
+M21739,Utilities,Kolkata,0.026
+M21740,Travel,Kolkata,0.292
+M21741,Fashion,Mumbai,0.17
+M21742,Electronics,Jaipur,0.346
+M21743,Grocery,Chennai,0.061
+M21744,Grocery,Kanpur,0.057
+M21745,Electronics,Kolkata,0.27
+M21746,Gaming,Chandigarh,0.313
+M21747,Utilities,Ahmedabad,0.076
+M21748,Travel,Hyderabad,0.293
+M21749,Healthcare,Delhi,0.121
+M21750,Fashion,Pune,0.147
+M21751,Gaming,Chennai,0.342
+M21752,Food Delivery,Hyderabad,0.049
+M21753,Grocery,Lucknow,0.02
+M21754,Travel,Noida,0.294
+M21755,Digital Services,Hyderabad,0.216
+M21756,Grocery,Mumbai,0.165
+M21757,Fashion,Kanpur,0.146
+M21758,Fashion,Mumbai,0.166
+M21759,Utilities,Hyderabad,0.117
+M21760,Grocery,Bengaluru,0.143
+M21761,Travel,Bengaluru,0.217
+M21762,Electronics,Kolkata,0.283
+M21763,Electronics,Lucknow,0.279
+M21764,Fashion,Ahmedabad,0.177
+M21765,Electronics,Hyderabad,0.289
+M21766,Food Delivery,Jaipur,0.087
+M21767,Electronics,Kolkata,0.287
+M21768,Digital Services,Chennai,0.184
+M21769,Travel,Bengaluru,0.24
+M21770,Grocery,Chennai,0.105
+M21771,Electronics,Jaipur,0.236
+M21772,Utilities,Kolkata,0.067
+M21773,Grocery,Jaipur,0.077
+M21774,Fashion,Chandigarh,0.138
+M21775,Digital Services,Indore,0.284
+M21776,Grocery,Noida,0.121
+M21777,Digital Services,Ahmedabad,0.293
+M21778,Fashion,Chandigarh,0.254
+M21779,Electronics,Hyderabad,0.329
+M21780,Healthcare,Delhi,0.031
+M21781,Travel,Jaipur,0.211
+M21782,Grocery,Delhi,0.16
+M21783,Gaming,Chennai,0.322
+M21784,Utilities,Noida,0.059
+M21785,Travel,Jaipur,0.255
+M21786,Gaming,Bengaluru,0.327
+M21787,Grocery,Delhi,0.177
+M21788,Grocery,Pune,0.093
+M21789,Electronics,Ahmedabad,0.389
+M21790,Digital Services,Jaipur,0.225
+M21791,Grocery,Jaipur,0.07
+M21792,Digital Services,Mumbai,0.212
+M21793,Electronics,Kolkata,0.245
+M21794,Travel,Kolkata,0.273
+M21795,Gaming,Hyderabad,0.28
+M21796,Grocery,Chandigarh,0.055
+M21797,Electronics,Hyderabad,0.303
+M21798,Electronics,Mumbai,0.182
+M21799,Travel,Mumbai,0.174
+M21800,Fashion,Hyderabad,0.158
+M21801,Grocery,Pune,0.118
+M21802,Electronics,Chandigarh,0.265
+M21803,Healthcare,Hyderabad,0.12
+M21804,Food Delivery,Pune,0.081
+M21805,Digital Services,Lucknow,0.318
+M21806,Electronics,Ahmedabad,0.321
+M21807,Electronics,Noida,0.243
+M21808,Fashion,Kolkata,0.152
+M21809,Grocery,Gurugram,0.02
+M21810,Fashion,Kolkata,0.202
+M21811,Fashion,Mumbai,0.102
+M21812,Food Delivery,Bengaluru,0.096
+M21813,Grocery,Hyderabad,0.087
+M21814,Jewellery,Jaipur,0.338
+M21815,Healthcare,Bengaluru,0.063
+M21816,Food Delivery,Chennai,0.137
+M21817,Fashion,Delhi,0.138
+M21818,Gaming,Bengaluru,0.379
+M21819,Electronics,Bengaluru,0.313
+M21820,Food Delivery,Gurugram,0.082
+M21821,Electronics,Noida,0.26
+M21822,Digital Services,Ahmedabad,0.23
+M21823,Travel,Mumbai,0.222
+M21824,Travel,Gurugram,0.306
+M21825,Utilities,Delhi,0.089
+M21826,Utilities,Mumbai,0.02
+M21827,Electronics,Mumbai,0.251
+M21828,Food Delivery,Bengaluru,0.099
+M21829,Healthcare,Delhi,0.119
+M21830,Fashion,Delhi,0.241
+M21831,Grocery,Bengaluru,0.135
+M21832,Healthcare,Kanpur,0.095
+M21833,Jewellery,Noida,0.362
+M21834,Grocery,Noida,0.164
+M21835,Electronics,Jaipur,0.267
+M21836,Electronics,Kolkata,0.216
+M21837,Healthcare,Pune,0.116
+M21838,Digital Services,Chandigarh,0.194
+M21839,Fashion,Bengaluru,0.19
+M21840,Digital Services,Ahmedabad,0.232
+M21841,Grocery,Mumbai,0.086
+M21842,Fashion,Mumbai,0.036
+M21843,Grocery,Pune,0.148
+M21844,Digital Services,Lucknow,0.197
+M21845,Electronics,Noida,0.247
+M21846,Digital Services,Mumbai,0.259
+M21847,Utilities,Bengaluru,0.073
+M21848,Jewellery,Lucknow,0.503
+M21849,Travel,Chennai,0.162
+M21850,Food Delivery,Delhi,0.103
+M21851,Grocery,Hyderabad,0.135
+M21852,Grocery,Jaipur,0.08
+M21853,Gaming,Jaipur,0.34
+M21854,Electronics,Lucknow,0.396
+M21855,Travel,Mumbai,0.243
+M21856,Grocery,Bengaluru,0.163
+M21857,Food Delivery,Bengaluru,0.149
+M21858,Grocery,Bengaluru,0.133
+M21859,Grocery,Hyderabad,0.091
+M21860,Grocery,Hyderabad,0.027
+M21861,Grocery,Hyderabad,0.149
+M21862,Food Delivery,Hyderabad,0.145
+M21863,Grocery,Bengaluru,0.124
+M21864,Gaming,Chandigarh,0.333
+M21865,Gaming,Pune,0.311
+M21866,Electronics,Hyderabad,0.34
+M21867,Travel,Delhi,0.255
+M21868,Grocery,Delhi,0.02
+M21869,Electronics,Ahmedabad,0.278
+M21870,Utilities,Hyderabad,0.066
+M21871,Travel,Bengaluru,0.122
+M21872,Digital Services,Delhi,0.216
+M21873,Digital Services,Chandigarh,0.367
+M21874,Electronics,Bengaluru,0.174
+M21875,Utilities,Delhi,0.028
+M21876,Fashion,Ahmedabad,0.051
+M21877,Fashion,Noida,0.089
+M21878,Food Delivery,Ahmedabad,0.037
+M21879,Travel,Bengaluru,0.187
+M21880,Digital Services,Ahmedabad,0.327
+M21881,Jewellery,Bengaluru,0.441
+M21882,Travel,Chennai,0.228
+M21883,Healthcare,Mumbai,0.175
+M21884,Digital Services,Bengaluru,0.229
+M21885,Utilities,Chennai,0.037
+M21886,Gaming,Mumbai,0.321
+M21887,Food Delivery,Ahmedabad,0.049
+M21888,Gaming,Hyderabad,0.255
+M21889,Grocery,Chennai,0.13
+M21890,Electronics,Hyderabad,0.295
+M21891,Fashion,Ahmedabad,0.102
+M21892,Digital Services,Kolkata,0.271
+M21893,Electronics,Ahmedabad,0.303
+M21894,Grocery,Delhi,0.073
+M21895,Travel,Pune,0.197
+M21896,Fashion,Chennai,0.196
+M21897,Digital Services,Mumbai,0.27
+M21898,Fashion,Mumbai,0.238
+M21899,Food Delivery,Pune,0.14
+M21900,Digital Services,Pune,0.17
+M21901,Jewellery,Jaipur,0.331
+M21902,Jewellery,Jaipur,0.39
+M21903,Utilities,Hyderabad,0.116
+M21904,Fashion,Hyderabad,0.174
+M21905,Utilities,Hyderabad,0.052
+M21906,Food Delivery,Gurugram,0.044
+M21907,Fashion,Kolkata,0.226
+M21908,Food Delivery,Bengaluru,0.184
+M21909,Healthcare,Ahmedabad,0.037
+M21910,Grocery,Chennai,0.13
+M21911,Jewellery,Pune,0.411
+M21912,Gaming,Noida,0.371
+M21913,Fashion,Pune,0.228
+M21914,Fashion,Noida,0.224
+M21915,Travel,Chennai,0.263
+M21916,Travel,Jaipur,0.229
+M21917,Grocery,Chennai,0.087
+M21918,Electronics,Pune,0.27
+M21919,Travel,Hyderabad,0.363
+M21920,Grocery,Kolkata,0.102
+M21921,Grocery,Mumbai,0.135
+M21922,Digital Services,Kolkata,0.269
+M21923,Food Delivery,Chennai,0.075
+M21924,Jewellery,Ahmedabad,0.421
+M21925,Food Delivery,Mumbai,0.09
+M21926,Fashion,Bengaluru,0.117
+M21927,Utilities,Pune,0.107
+M21928,Food Delivery,Hyderabad,0.063
+M21929,Food Delivery,Mumbai,0.159
+M21930,Grocery,Mumbai,0.126
+M21931,Electronics,Hyderabad,0.337
+M21932,Grocery,Hyderabad,0.122
+M21933,Grocery,Hyderabad,0.057
+M21934,Jewellery,Gurugram,0.45
+M21935,Utilities,Delhi,0.132
+M21936,Electronics,Ahmedabad,0.32
+M21937,Electronics,Delhi,0.313
+M21938,Travel,Mumbai,0.173
+M21939,Fashion,Pune,0.199
+M21940,Food Delivery,Lucknow,0.064
+M21941,Electronics,Bengaluru,0.252
+M21942,Fashion,Chennai,0.123
+M21943,Digital Services,Pune,0.179
+M21944,Travel,Kolkata,0.248
+M21945,Healthcare,Pune,0.099
+M21946,Food Delivery,Kanpur,0.18
+M21947,Fashion,Delhi,0.214
+M21948,Food Delivery,Ahmedabad,0.128
+M21949,Utilities,Gurugram,0.115
+M21950,Digital Services,Bengaluru,0.245
+M21951,Grocery,Jaipur,0.095
+M21952,Food Delivery,Pune,0.126
+M21953,Gaming,Bengaluru,0.333
+M21954,Fashion,Hyderabad,0.17
+M21955,Food Delivery,Kanpur,0.15
+M21956,Grocery,Chennai,0.045
+M21957,Electronics,Bengaluru,0.262
+M21958,Fashion,Chandigarh,0.195
+M21959,Fashion,Bengaluru,0.135
+M21960,Gaming,Mumbai,0.316
+M21961,Jewellery,Delhi,0.446
+M21962,Grocery,Indore,0.067
+M21963,Travel,Bengaluru,0.26
+M21964,Fashion,Lucknow,0.167
+M21965,Digital Services,Kanpur,0.29
+M21966,Gaming,Mumbai,0.337
+M21967,Digital Services,Ahmedabad,0.214
+M21968,Travel,Chennai,0.211
+M21969,Food Delivery,Pune,0.195
+M21970,Healthcare,Hyderabad,0.076
+M21971,Grocery,Mumbai,0.073
+M21972,Digital Services,Mumbai,0.229
+M21973,Travel,Mumbai,0.228
+M21974,Digital Services,Bengaluru,0.232
+M21975,Grocery,Kolkata,0.125
+M21976,Grocery,Bengaluru,0.105
+M21977,Grocery,Hyderabad,0.073
+M21978,Grocery,Pune,0.133
+M21979,Grocery,Kolkata,0.113
+M21980,Fashion,Lucknow,0.22
+M21981,Grocery,Bengaluru,0.114
+M21982,Grocery,Ahmedabad,0.094
+M21983,Travel,Bengaluru,0.231
+M21984,Food Delivery,Ahmedabad,0.127
+M21985,Grocery,Gurugram,0.117
+M21986,Food Delivery,Bengaluru,0.12
+M21987,Food Delivery,Chennai,0.1
+M21988,Fashion,Delhi,0.188
+M21989,Electronics,Chennai,0.299
+M21990,Food Delivery,Chennai,0.121
+M21991,Utilities,Lucknow,0.11
+M21992,Electronics,Jaipur,0.277
+M21993,Travel,Hyderabad,0.241
+M21994,Grocery,Delhi,0.128
+M21995,Utilities,Delhi,0.116
+M21996,Gaming,Chennai,0.369
+M21997,Fashion,Indore,0.126
+M21998,Food Delivery,Kolkata,0.137
+M21999,Digital Services,Bengaluru,0.252
