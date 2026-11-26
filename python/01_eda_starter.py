@@ -4,12 +4,14 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
+from pathlib import Path
 
-customers = pd.read_csv("../data/customers.csv")
-merchants = pd.read_csv("../data/merchants.csv")
-transactions = pd.read_csv("../data/transactions.csv", parse_dates=["transaction_timestamp"])
-fraud = pd.read_csv("../data/fraud_labels.csv")
+DATA = Path(__file__).resolve().parents[1] / "data"
+
+customers = pd.read_csv(DATA / "customers.csv")
+merchants = pd.read_csv(DATA / "merchants.csv")
+transactions = pd.read_csv(DATA / "transactions.csv", parse_dates=["transaction_timestamp"])
+fraud = pd.read_csv(DATA / "fraud_labels.csv")
 
 df = transactions.merge(fraud, on="transaction_id", how="left")
 
@@ -52,4 +54,4 @@ print(hourly)
 # 2. Create rule-based risk score
 # 3. Validate risk score against fraud labels
 # 4. Optional: Logistic Regression / Random Forest
-# 5. Export dashboard-ready table for Power BI
+# 5. Export dashboard-ready table for the dashboard

@@ -16,7 +16,7 @@ It:
 - performs Mann-Whitney and chi-square tests
 - validates the rule-based risk score
 - generates charts
-- exports `powerbi_transaction_risk.csv`
+- exports `transactions_scored_legacy.csv`
 
 ## 2. `03_ml_benchmark.py`
 
@@ -43,6 +43,6 @@ The `outputs/` folder will contain:
 - statistical tests
 - behavioural effect sizes
 - risk-score validation
-- Power BI-ready transaction-level table
+- dashboard-ready transaction-level table
 - charts
 - ML benchmark metrics

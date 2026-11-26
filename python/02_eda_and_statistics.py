@@ -99,23 +99,7 @@ df["amount_anomaly"] = (
     & (df["amount"] >= 3 * df["previous_amount_mean"])
 ).astype(int)
 
-# Rolling transaction velocity
-df["transactions_last_1h"] = (
-    df.groupby("customer_id", group_keys=False)
-      .apply(lambda g: g.set_index("transaction_timestamp")["transaction_id"]
-             .rolling("1h").count().values, include_groups=False)
-      .explode()
-      .astype(float)
-      .values
-)
-
-# The rolling operation above can be sensitive to pandas versions/order.
-# Recalculate robustly using a simple grouped loop if shape mismatch occurs.
-if len(df["transactions_last_1h"]) != len(df):
-    df["transactions_last_1h"] = np.nan
-
-# More robust vectorized calculation using timestamp search per customer.
-# For this portfolio dataset, the exact rolling count is calculated below.
+# Rolling transaction velocity (customer-level, trailing 1 hour, vectorised per customer)
 velocity = np.zeros(len(df), dtype=int)
 for _, idx in df.groupby("customer_id", sort=False).groups.items():
     pos = np.array(list(idx))
@@ -126,7 +110,8 @@ df["transactions_last_1h"] = velocity
 
 df["high_risk_merchant"] = (df["merchant_risk_score"] >= 0.35).astype(int)
 
-# Rule-based score matching SQL layer
+# LEGACY rule-based score (matches SQL layer). NOTE: payment_anomaly is always 0 and amount_anomaly
+# carries no signal in this dataset - see 05_scorecard_and_cost_analysis.py for the data-driven replacement.
 df["risk_score"] = (
     10 * df["night_transaction"]
     + 15 * df["device_anomaly"]
@@ -356,7 +341,7 @@ export_cols = [
     "location_anomaly","rapid_transaction","amount_anomaly",
     "payment_anomaly","high_risk_merchant","transactions_last_1h"
 ]
-df[export_cols].to_csv(OUT / "powerbi_transaction_risk.csv", index=False)
+df[export_cols].to_csv(OUT / "transactions_scored_legacy.csv", index=False)
 
 print("Python EDA + statistics complete.")
 print("Outputs:", OUT)
