@@ -1,9 +1,0 @@
-feature,chi2,p_value,significant_at_0_05
-night_transaction,726.655488144924,4.780196941910887e-160,True
-device_anomaly,235.3725216261388,4.015527246520609e-53,True
-location_anomaly,1081.4057370879486,3.633062685897472e-237,True
-payment_anomaly,0.0,1.0,False
-rapid_transaction,1.7041630305289754,0.19174444221695108,False
-amount_anomaly,0.0,1.0,False
-high_risk_merchant,71.01616500246527,3.543099867271181e-17,True
-transaction_amount_mann_whitney_u,574876910.5,0.8864616474844642,False
