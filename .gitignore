@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Large regenerable exports (re-create with python/run_all.py)
+outputs/transactions_scored_legacy.csv
+outputs/v2/transactions_scored.csv
