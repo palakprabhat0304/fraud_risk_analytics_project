@@ -1,0 +1,5 @@
+feature,points_when_present
+night,20.5
+device_anomaly,25.6
+location_anomaly,31.0
+merchant_risk (per +1 SD),5.6

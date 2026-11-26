@@ -1,0 +1,44 @@
+{
+  "assumptions": {
+    "review_cost_inr": 40.0,
+    "detection_rate": 0.85
+  },
+  "test_fraud_value_inr": 1424234.02,
+  "operating_points": {
+    "New scorecard": {
+      "model": "New scorecard",
+      "threshold": 36.0,
+      "train_net_benefit": 542817.9955,
+      "test_net_benefit": 96239.619,
+      "test_alerts": 5067.0,
+      "test_tp": 210.0,
+      "test_precision": 0.04144464179988159,
+      "test_recall": 0.2545454545454545,
+      "test_prevented_inr": 298919.619,
+      "test_review_cost_inr": 202680.0
+    },
+    "Legacy rules": {
+      "model": "Legacy rules",
+      "threshold": 16.0,
+      "train_net_benefit": 439173.5234999999,
+      "test_net_benefit": 54317.013999999996,
+      "test_alerts": 2099.0,
+      "test_tp": 104.0,
+      "test_precision": 0.04954740352548833,
+      "test_recall": 0.12606060606060607,
+      "test_prevented_inr": 138277.014,
+      "test_review_cost_inr": 83960.0
+    }
+  },
+  "scaling": {
+    "merchant_mean": 0.1857673090909091,
+    "merchant_sd": 0.10103729353384293,
+    "z_min_no_intercept": -0.3837705286968376,
+    "z_max_no_intercept": 3.765419624970642
+  },
+  "tier_cutoffs_score": [
+    27.741662698582694,
+    40.35174245360946,
+    58.65566738346787
+  ]
+}

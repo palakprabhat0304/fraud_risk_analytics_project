@@ -1,0 +1,3 @@
+,model,threshold,train_net_benefit,test_net_benefit,test_alerts,test_tp,test_precision,test_recall,test_prevented_inr,test_review_cost_inr
+New scorecard,New scorecard,36.0,542817.9955,96239.619,5067,210,0.04144464179988159,0.2545454545454545,298919.619,202680.0
+Legacy rules,Legacy rules,16.0,439173.5234999999,54317.013999999996,2099,104,0.04954740352548833,0.12606060606060607,138277.014,83960.0

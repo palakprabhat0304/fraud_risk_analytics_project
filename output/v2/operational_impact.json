@@ -1,0 +1,13 @@
+{
+  "test_days": 73,
+  "alerts": 5067,
+  "alerts_per_day": 69.41095890410959,
+  "true_fraud_alerts": 210,
+  "false_alerts": 4857,
+  "false_alerts_per_fraud_caught": 23.12857142857143,
+  "false_alert_share_pct": 95.85553582001184,
+  "legit_transactions_challenged_pct": 8.96538994000923,
+  "fraud_missed": 615,
+  "fraud_value_missed_inr": 1072563.8800000001,
+  "estimated_net_benefit_inr_ASSUMPTION_BASED": 96239.619
+}

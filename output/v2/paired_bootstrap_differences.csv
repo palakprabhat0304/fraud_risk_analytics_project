@@ -1,0 +1,5 @@
+comparison,metric,mean_difference,ci_low,ci_high,conclusion
+Logistic scorecard - Gradient boosting,ROC-AUC,0.007127066512851116,0.0028607357841525963,0.012096803698831688,difference is reliable
+Logistic scorecard - Gradient boosting,PR-AUC,0.0024788980185153704,-0.00045489212033856857,0.0058842420905576495,difference not distinguishable from zero
+Logistic scorecard - Legacy rules,ROC-AUC,0.02733343573107294,0.017804787263064337,0.0370808661477136,difference is reliable
+Logistic scorecard - Legacy rules,PR-AUC,0.00847874545532221,0.006153504754898151,0.011260489769856814,difference is reliable
